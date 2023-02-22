@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+        *
+        {
+            margin: 0px;
+            padding: 0px;
+        }
+        #onlyforcenterparent
+        {
+            display: flex;
+            place-content: center;
+        }
+
+        #onlyforcenterparent div
+        {
+            background-color: bisque;
+            padding: 30px;
+            margin: 10px;
+            border-radius: 15px;
+        }
+        
+
+        h1{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="onlyforcenterparent">
+        <div>
+            <h1 id="title">User Form</h1>
+            <p id="description">Very short explanation of the user form</p><br>
+
+            <form action="POST" id="survey-form">
+
+                <label id="naem-label">Name : </label>
+                <input type="text" id="name" placeholder="enter your name"><br><br>
+
+                <label id="email-label">Email : </label>
+                <input id="email" type="email" placeholder="enter your email"><br><br>
+
+                <label id="number-label">Age : </label>
+                <input id="number" type="number"  min="10" max="100"><br><br>
+
+                <label>Gender : </label>
+                <select id="dropdown">
+                    <option value="" selected disabled>Select your gender :</option>
+                    <option value="">Male</option>
+                    <option value="">Female</option>
+                    <option value="">Others </option>
+                </select><br><br>
+                
+                <label for="">Radio :</label>
+                <input type="radio" name="radi" id="">  RAD1
+                <input type="radio" name="radi" id="">  RAD2
+                <br><br>
+
+                <label for="">CheckBox : </label>
+                <input type="checkbox" value="chk">checkbox1
+                <input type="checkbox" value="chk">checkbox2
+                <br><br>
+
+                <label for="">Additional Feedback:</label>
+                <br>
+                <textarea cols="30" rows="10"></textarea>
+                <br><br>
+
+                <button type="submit" id="submit">Submit yo form</button>
+                <button type="reset">Rest yo form</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

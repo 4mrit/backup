@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+
+        #box{
+            height: 30vh;
+            width: 30vw;
+            background-color: red;
+            /* animation: myAnimation ease-in 1000ms infinite; */
+            animation: myAnimation ease-in 1000ms 1 forwards;
+            position: absolute;
+        }
+        @keyframes myAnimation {
+            0%
+            {
+                background-color: black;
+                top:0px;
+            }
+            50%
+            {
+                background-color: white;
+                top: 150px;
+            }
+            100%
+            {
+                background-color: aqua;
+                top:200px;
+            }
+        }
+
+
+    </style>
+</head>
+<body>
+    <div id="box"></div>
+</body>
+</html>

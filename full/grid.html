@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+        #grid{
+            display: grid;
+            background-color:aliceblue;
+            grid-template-columns: repeat(5,1fr);
+        }
+        #grid div{
+            height: 50px;
+            width: 50px;
+        }
+        #grid div:nth-child(2n){
+            background-color: burlywood;
+        }
+        #grid div:nth-child(2n+1){
+            background-color: bisque;
+        }
+    </style>
+</head>
+<body>
+    <div id="grid">
+        <div class="s1"></div>
+        <div class="s2"></div>
+        <div class="s3"></div>
+        <div class="s4"></div>
+        <div class="s5"></div>
+        <div class="s6"></div>
+    </div>
+</body>
+</html>

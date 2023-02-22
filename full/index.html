@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+        body
+        {
+            background: pink;
+        }
+        .parent
+        {
+            height: 100vh;
+            width: 100%;
+            display: flex;
+            /* flex-wrap: wrap; */
+            justify-content: center;
+            align-items: center;
+        }
+        .parent div{
+            background: red;
+            border: 1px solid black;
+            margin: 10px;
+            height: 100px;
+            flex-basis: 200px
+        }
+        .second{
+            flex-shrink: 1;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="parent">
+        <!-- <video controls width="500px "> 
+        <source src="timivayera.mp4">
+        </video> -->
+    
+        <div class="first" ></div>
+        <div class="second" ></div>
+    </div>
+</body>
+</html>

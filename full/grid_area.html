@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+        #grid
+        {
+            display: grid;
+            gap: 10px 20px;
+            grid-template-columns: 1fr 1fr 20px;
+            grid-template-areas: 
+            "header header header"
+            "main main side"
+            "footer footer footer"
+            ;
+        }
+        header
+        {
+            background-color: aquamarine;
+            grid-area: header;
+        }
+        main
+        {
+            background-color: bisque;
+            grid-area: main;
+        }
+        aside
+        {
+            background-color: burlywood;
+            grid-area: side;
+        }
+        footer
+        {
+            background-color: grey;
+            grid-area: footer;
+        }
+    </style>
+</head>
+<body>
+    <section id="grid" >
+        <header>header</header>
+        <main>Main content</main>
+        <aside>Side bar</aside>
+        <footer>Footer</footer>
+    </section>
+</body>
+</html>

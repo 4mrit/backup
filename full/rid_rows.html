@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+        #grid
+        {
+            display: grid;
+            background-color: aquamarine;
+            grid-template-rows: repeat(5,1fr);
+            grid-template-columns: repeat(5,1fr);
+        }
+        h1
+        {
+            border: 1px solid black;
+            grid-row: 3 ;
+            /* grid-column: 4 / 6; */
+            grid-column: 4 / span ;
+        }
+    </style>
+</head>
+<body>
+    <div id="grid">
+        <h1>Hello</h1>
+    </div>    
+</body>
+</html>
