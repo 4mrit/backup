@@ -1,0 +1,922 @@
+2022-12-11 07:51:21 Using browser-only version of superagent in non-browser environment
+2022-12-11 07:51:21 Configuration directory URI: 'file:///home/amrit/.theia'
+2022-12-11 07:51:21 Configuring to accept webviews on '^.+\.webview\..+$' hostname.
+2022-12-11 07:51:21 2022-12-11T07:51:21.751Z root INFO Backend Object.initialize: 15.1 ms [Finished 6.732 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.751Z root INFO Backend Object.configure: 13.3 ms [Finished 6.732 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.752Z root INFO Backend MessagingContribution.onStart: 3.3 ms [Finished 6.732 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.754Z root INFO Backend OSBackendApplicationContribution.configure: 0.8 ms [Finished 6.871 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.755Z root INFO Backend DefaultWorkspaceServer.onStart: 0.7 ms [Finished 6.871 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.757Z root INFO Backend PluginLocalizationBackendContribution.configure: 0.4 ms [Finished 6.872 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.758Z root WARN Backend PluginLocalizationBackendContribution.initialize took longer than the expected maximum 50 milliseconds: 140.2 ms [Finished 6.873 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.759Z root INFO Backend TaskBackendApplicationContribution.onStart: 1.1 ms [Finished 6.873 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.761Z root INFO Backend ElectronTokenBackendContribution.configure: 2.4 ms [Finished 6.876 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.762Z root INFO Backend PluginDeployerContribution.initialize: 1.0 ms [Finished 6.876 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.763Z root INFO Backend ConfigServiceImpl.onStart: 1.6 ms [Finished 6.877 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.765Z root INFO Backend WebviewBackendSecurityWarnings.initialize: 0.8 ms [Finished 6.879 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.766Z root INFO Backend ArduinoDaemonImpl.onStart: 1.9 ms [Finished 6.881 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.766Z root INFO Backend NodeFileUploadService.configure: 3.9 ms [Finished 6.881 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.766Z daemon INFO Starting daemon from /opt/arduino-ide/resources/app/node_modules/arduino-ide-extension/build/arduino-cli...
+2022-12-11 07:51:21 2022-12-11T07:51:21.766Z discovery-log INFO start
+2022-12-11 07:51:21 2022-12-11T07:51:21.766Z discovery-log INFO start new deferred
+2022-12-11 07:51:21 2022-12-11T07:51:21.766Z root INFO Backend HostedPluginLocalizationService.initialize: 1.2 ms [Finished 6.884 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.767Z root INFO Backend BoardDiscovery.onStart: 2.3 ms [Finished 6.885 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.767Z root INFO Backend FileDownloadEndpoint.configure: 1.5 ms [Finished 6.886 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.767Z root INFO Backend AuthenticationServiceImpl.onStart: 0.8 ms [Finished 6.888 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.768Z root INFO Backend PluginApiContribution.configure: 1.0 ms [Finished 6.888 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.803Z root INFO Backend HostedPluginReader.configure: 0.7 ms [Finished 6.889 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.803Z root INFO Backend HostedPluginReader.configure: 0.3 ms [Finished 6.890 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.803Z root INFO Backend PlotterBackendContribution.configure: 34.9 ms [Finished 6.925 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.809Z root INFO Theia app listening on http://localhost:42209.
+2022-12-11 07:51:21 2022-12-11T07:51:21.810Z root INFO Finished starting backend application: 43.2 ms [Finished 6.932 s after backend start]
+2022-12-11 07:51:21 2022-12-11T07:51:21.828Z root WARN The local plugin referenced by local-dir:/home/amrit/.arduinoIDE/plugins does not exist.
+2022-12-11 07:51:21 2022-12-11T07:51:21.829Z root WARN The local plugin referenced by local-dir:/home/amrit/.arduinoIDE/extensions does not exist.
+2022-12-11 07:51:21 2022-12-11T07:51:21.829Z root WARN The local plugin referenced by local-dir:/home/amrit/.arduinoProIDE/plugins does not exist.
+2022-12-11 07:51:22 2022-12-11T07:51:22.482Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.483Z root INFO Resolved "cortex-debug" to a VS Code extension "cortex-debug@1.5.1" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.484Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.484Z root INFO Resolved "vscode-arduino-tools" to a VS Code extension "vscode-arduino-tools@0.0.2-beta.5" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.484Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.485Z root INFO Resolved "vscode-builtin-cpp" to a VS Code extension "cpp@1.52.1" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.485Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.485Z root INFO Resolved "vscode-builtin-json" to a VS Code extension "json@1.46.1" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.485Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.485Z root INFO Resolved "vscode-builtin-json-language-features" to a VS Code extension "json-language-features@1.46.1" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.485Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.485Z root INFO Resolved "vscode-language-pack-bg" to a VS Code extension "vscode-language-pack-bg@1.48.3" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.485Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.486Z root INFO Resolved "vscode-language-pack-cs" to a VS Code extension "vscode-language-pack-cs@1.53.2" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.486Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.486Z root INFO Resolved "vscode-language-pack-de" to a VS Code extension "vscode-language-pack-de@1.53.2" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.486Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.486Z root INFO Resolved "vscode-language-pack-es" to a VS Code extension "vscode-language-pack-es@1.53.2" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.486Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.486Z root INFO Resolved "vscode-language-pack-fr" to a VS Code extension "vscode-language-pack-fr@1.53.2" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.487Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.487Z root INFO Resolved "vscode-language-pack-hu" to a VS Code extension "vscode-language-pack-hu@1.48.3" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.487Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.487Z root INFO Resolved "vscode-language-pack-it" to a VS Code extension "vscode-language-pack-it@1.53.2" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.488Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.488Z root INFO Resolved "vscode-language-pack-ja" to a VS Code extension "vscode-language-pack-ja@1.53.2" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.488Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.488Z root INFO Resolved "vscode-language-pack-ko" to a VS Code extension "vscode-language-pack-ko@1.53.2" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.488Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.488Z root INFO Resolved "vscode-language-pack-nl" to a VS Code extension "vscode-language-pack-nl@1.48.3" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.489Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.489Z root INFO Resolved "vscode-language-pack-pl" to a VS Code extension "vscode-language-pack-pl@1.53.2" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.489Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.489Z root INFO Resolved "vscode-language-pack-pt-BR" to a VS Code extension "vscode-language-pack-pt-BR@1.53.2" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.489Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.489Z root INFO Resolved "vscode-language-pack-ru" to a VS Code extension "vscode-language-pack-ru@1.53.2" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.489Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.489Z root INFO Resolved "vscode-language-pack-tr" to a VS Code extension "vscode-language-pack-tr@1.53.2" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.489Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.489Z root INFO Resolved "vscode-language-pack-uk" to a VS Code extension "vscode-language-pack-uk@1.48.3" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.490Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-11 07:51:22 2022-12-11T07:51:22.490Z root INFO Resolved "vscode-language-pack-zh-hans" to a VS Code extension "vscode-language-pack-zh-hans@1.53.2" with engines:
+2022-12-11 07:51:22 2022-12-11T07:51:22.509Z root INFO Resolve plugins list: 744.2 ms [Finished 7.630 s after backend start]
+2022-12-11 07:51:22 2022-12-11T07:51:22.643Z root INFO Deployed backend plugin "marus25.cortex-debug@1.5.1" from "/opt/arduino-ide/resources/app/plugins/cortex-debug/extension/dist/extension.js": 132.9 ms [Finished 7.764 s after backend start]
+2022-12-11 07:51:22 2022-12-11T07:51:22.655Z root INFO Deployed backend plugin "arduino.vscode-arduino-tools@0.0.2-beta.5" from "/opt/arduino-ide/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle": 12.7 ms [Finished 7.778 s after backend start]
+2022-12-11 07:51:22 2022-12-11T07:51:22.951Z root INFO Deployed backend plugin "vscode.cpp@1.52.1" from "/opt/arduino-ide/resources/app/plugins/vscode-builtin-cpp/extension": 295.5 ms [Finished 8.073 s after backend start]
+2022-12-11 07:51:23 2022-12-11T07:51:23.050Z root INFO Deployed backend plugin "vscode.json@1.46.1" from "/opt/arduino-ide/resources/app/plugins/vscode-builtin-json/extension": 98.7 ms [Finished 8.172 s after backend start]
+2022-12-11 07:51:23 2022-12-11T07:51:23.054Z root INFO Deployed backend plugin "vscode.json-language-features@1.46.1" from "/opt/arduino-ide/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain": 4.0 ms [Finished 8.176 s after backend start]
+2022-12-11 07:51:23 2022-12-11T07:51:23.364Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-bg@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-bg/extension": 309.8 ms [Finished 8.486 s after backend start]
+2022-12-11 07:51:23 2022-12-11T07:51:23.608Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-cs@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-cs/extension": 244.4 ms [Finished 8.731 s after backend start]
+2022-12-11 07:51:23 2022-12-11T07:51:23.793Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-de@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-de/extension": 184.9 ms [Finished 8.916 s after backend start]
+2022-12-11 07:51:24 2022-12-11T07:51:24.251Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-es@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-es/extension": 457.7 ms [Finished 9.373 s after backend start]
+2022-12-11 07:51:24 2022-12-11T07:51:24.277Z daemon INFO [36mINFO[0m[0001] Using config file: /home/amrit/.arduinoIDE/arduino-cli.yaml 
+[36mINFO[0m[0001] arduino-cli version 0.29.0                   
+[36mINFO[0m[0001] Executing `arduino-cli daemon`               
+{"IP":"127.0.0.1","Port":"41565"}
+
+2022-12-11 07:51:24 2022-12-11T07:51:24.279Z daemon INFO Daemon is running.
+2022-12-11 07:51:24 2022-12-11T07:51:24.784Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-fr@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-fr/extension": 532.7 ms [Finished 9.906 s after backend start]
+2022-12-11 07:51:24 2022-12-11T07:51:24.802Z daemon INFO [36mINFO[0m[0002] Loading hardware from: /home/amrit/.arduino15/packages 
+
+2022-12-11 07:51:25 2022-12-11T07:51:25.164Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-hu@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-hu/extension": 380.6 ms [Finished 10.287 s after backend start]
+2022-12-11 07:51:25 2022-12-11T07:51:25.167Z daemon INFO [36mINFO[0m[0002] Loading package arduino from: /home/amrit/.arduino15/packages/arduino/hardware 
+[36mINFO[0m[0002] Checking signature                            [36merror[0m="opening signature file: open /home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig: no such file or directory" [36mindex[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json [36msignatureFile[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig
+[36mINFO[0m[0002] Adding monitor tool                           [36mprotocol[0m=serial [36mtool[0m="builtin:serial-monitor"
+[36mINFO[0m[0002] Loaded platform                               [36mplatform[0m="arduino:avr@1.8.6"
+[36mINFO[0m[0002] Checking existence of 'tools' path: /home/amrit/.arduino15/packages/arduino/tools 
+[36mINFO[0m[0002] Loading tools from dir: /home/amrit/.arduino15/packages/arduino/tools 
+
+2022-12-11 07:51:25 2022-12-11T07:51:25.508Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-it@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-it/extension": 342.9 ms [Finished 10.630 s after backend start]
+2022-12-11 07:51:25 2022-12-11T07:51:25.510Z daemon INFO [36mINFO[0m[0002] Loaded tool                                   [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0002] Loaded tool                                   [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0002] Loaded tool                                   [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0002] Loading package builtin from: /home/amrit/.arduino15/packages/builtin 
+[36mINFO[0m[0002] Checking existence of 'tools' path: /home/amrit/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0002] Loading tools from dir: /home/amrit/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0002] Loaded tool                                   [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0002] Loaded tool                                   [36mtool[0m="builtin:mdns-discovery@1.0.6"
+[36mINFO[0m[0002] Loaded tool                                   [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[0002] Loaded tool                                   [36mtool[0m="builtin:serial-monitor@0.11.0"
+[36mINFO[0m[0002] Checking signature                            [36mindex[0m=/home/amrit/.arduino15/package_index.json [36msignatureFile[0m=/home/amrit/.arduino15/package_index.json.sig [36mtrusted[0m=true
+[36mINFO[0m[0002] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0002] Loading libraries index file                  [36mindex[0m=/home/amrit/.arduino15/library_index.json
+
+2022-12-11 07:51:25 2022-12-11T07:51:25.758Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-ja@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-ja/extension": 250.7 ms [Finished 10.881 s after backend start]
+2022-12-11 07:51:25 2022-12-11T07:51:25.990Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-ko@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-ko/extension": 231.7 ms [Finished 11.113 s after backend start]
+2022-12-11 07:51:26 2022-12-11T07:51:26.097Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-nl@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-nl/extension": 106.9 ms [Finished 11.220 s after backend start]
+2022-12-11 07:51:26 2022-12-11T07:51:26.317Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-pl@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-pl/extension": 219.7 ms [Finished 11.440 s after backend start]
+2022-12-11 07:51:26 2022-12-11T07:51:26.440Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-pt-br@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-pt-BR/extension": 122.3 ms [Finished 11.562 s after backend start]
+2022-12-11 07:51:27 2022-12-11T07:51:27.473Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-ru@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-ru/extension": 1033.7 ms [Finished 12.596 s after backend start]
+2022-12-11 07:51:27 2022-12-11T07:51:27.704Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-tr@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-tr/extension": 230.2 ms [Finished 12.826 s after backend start]
+2022-12-11 07:51:27 2022-12-11T07:51:27.967Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-uk@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-uk/extension": 262.9 ms [Finished 13.089 s after backend start]
+2022-12-11 07:51:27 2022-12-11T07:51:27.975Z daemon INFO [36mINFO[0m[0005] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0005] Adding libraries dir                          [36mdir[0m=/home/amrit/Arduino/libraries [36mlocation[0m=user
+
+2022-12-11 07:51:28 2022-12-11T07:51:28.383Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-zh-hans@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-zh-hans/extension": 415.7 ms [Finished 13.505 s after backend start]
+2022-12-11 07:51:28 2022-12-11T07:51:28.383Z root INFO Deploy plugins list: 744.2 ms [Finished 13.505 s after backend start]
+2022-12-11 07:51:28 2022-12-11T07:51:28.388Z discovery-log INFO start request start watch
+2022-12-11 07:51:28 2022-12-11T07:51:28.389Z discovery-log INFO start requested start watch
+2022-12-11 07:51:28 2022-12-11T07:51:28.389Z discovery-log INFO start resolved watching
+2022-12-11 07:51:28 2022-12-11T07:51:28.391Z daemon INFO [36mINFO[0m[0005] starting discovery builtin:mdns-discovery process 
+[36mINFO[0m[0005] starting discovery builtin:serial-discovery process 
+
+2022-12-11 07:51:28 2022-12-11T07:51:28.547Z daemon INFO [36mINFO[0m[0005] started discovery builtin:mdns-discovery process 
+[36mINFO[0m[0005] sending command HELLO 1 "arduino-cli 0.29.0" to discovery builtin:mdns-discovery 
+
+2022-12-11 07:51:28 2022-12-11T07:51:28.602Z daemon INFO [36mINFO[0m[0005] started discovery builtin:serial-discovery process 
+[36mINFO[0m[0005] sending command HELLO 1 "arduino-cli 0.29.0" to discovery builtin:serial-discovery 
+
+2022-12-11 07:51:28 2022-12-11T07:51:28.907Z daemon INFO [36mINFO[0m[0006] from discovery builtin:mdns-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0006] sending command START_SYNC to discovery builtin:mdns-discovery 
+
+2022-12-11 07:51:28 2022-12-11T07:51:28.907Z daemon INFO [36mINFO[0m[0006] from discovery builtin:mdns-discovery received message type: start_sync, message: OK 
+
+2022-12-11 07:51:28 2022-12-11T07:51:28.939Z daemon INFO [36mINFO[0m[0006] from discovery builtin:serial-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0006] sending command START_SYNC to discovery builtin:serial-discovery 
+
+2022-12-11 07:51:28 2022-12-11T07:51:28.944Z daemon INFO [36mINFO[0m[0006] from discovery builtin:serial-discovery received message type: start_sync, message: OK 
+
+2022-12-11 07:51:28 2022-12-11T07:51:28.945Z daemon INFO [36mINFO[0m[0006] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyUSB0 
+
+2022-12-11 07:51:30 2022-12-11T07:51:30.858Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"/dev/ttyUSB0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x7523"],["serialNumber",""],["vid","0x1a86"]]}},"error":""}
+2022-12-11 07:51:32 2022-12-11T07:51:32.988Z root WARN Frontend a.configure took longer than the expected maximum 100 milliseconds: 527.2 ms [Finished 8.510 s after frontend start]
+2022-12-11 07:51:33 2022-12-11T07:51:33.022Z root WARN Frontend commands.onStart took longer than the expected maximum 100 milliseconds: 201.8 ms [Finished 8.721 s after frontend start]
+2022-12-11 07:51:33 2022-12-11T07:51:33.316Z root WARN Frontend keybindings.onStart took longer than the expected maximum 100 milliseconds: 230.3 ms [Finished 8.955 s after frontend start]
+2022-12-11 07:51:33 2022-12-11T07:51:33.472Z sketches-service WARN Warning! The request sketch path was different than the response sketch path from the CLI. This could be a potential bug. Request: </home/amrit/Arduino/temperatureRead/temperatureRead.ino>, response: </home/amrit/Arduino/temperatureRead>.
+2022-12-11 07:51:33 2022-12-11T07:51:33.823Z root WARN Frontend l.onStart took longer than the expected maximum 100 milliseconds: 399.1 ms [Finished 9.549 s after frontend start]
+2022-12-11 07:51:33 2022-12-11T07:51:33.900Z root INFO Start frontend contributions: 2030.4 ms [Finished 9.566 s after frontend start]
+2022-12-11 07:51:33 2022-12-11T07:51:33.901Z root INFO Changed application state from 'init' to 'started_contributions'.
+2022-12-11 07:51:33 2022-12-11T07:51:33.959Z root INFO Changed application state from 'started_contributions' to 'attached_shell'.
+2022-12-11 07:51:33 2022-12-11T07:51:33.960Z root INFO >>> Restoring the layout state...
+2022-12-11 07:51:33 2022-12-11T07:51:33.963Z root INFO ------- SERIALIZED LAYOUT DATA -------
+2022-12-11 07:51:33 2022-12-11T07:51:33.964Z root INFO {"version":5,"mainPanel":{"main":{"type":"tab-area","widgets":[{"constructionOptions":{"factoryId":"code-editor-opener","options":{"kind":"navigatable","uri":"file:///home/amrit/Arduino/temperatureRead/temperatureRead.ino","counter":0}},"innerWidgetState":"{\"cursorState\":[{\"inSelectionMode\":false,\"selectionStart\":{\"lineNumber\":5,\"column\":22},\"position\":{\"lineNumber\":5,\"column\":22}}],\"viewState\":{\"scrollLeft\":0,\"firstPosition\":{\"lineNumber\":1,\"column\":1},\"firstPositionDeltaTop\":0},\"contributionsState\":{\"editor.contrib.folding\":{\"lineCount\":20,\"provider\":\"indent\",\"foldedImports\":false},\"editor.contrib.wordHighlighter\":false}}"}],"currentIndex":0}},"mainPanelPinned":[false],"bottomPanel":{"config":{"main":{"type":"tab-area","widgets":[{"constructionOptions":{"factoryId":"outputView"},"innerWidgetState":"{\"locked\":false}"},{"constructionOptions":{"factoryId":"serial-monitor"}}],"currentIndex":1}},"pinned":[false,false],"size":244,"expanded":true},"leftPanel":{"type":"sidepanel","items":[{"widget":{"constructionOptions":{"factoryId":"arduino-sketchbook-widget"}},"rank":1,"expanded":false,"pinned":false},{"widget":{"constructionOptions":{"factoryId":"boards-list-widget"}},"rank":2,"expanded":false,"pinned":false},{"widget":{"constructionOptions":{"factoryId":"library-list-widget"}},"rank":3,"expanded":false,"pinned":false},{"widget":{"constructionOptions":{"factoryId":"debug"},"innerWidgetState":"{\"parts\":[{\"partId\":\"debug:threads:-1\",\"collapsed\":false,\"hidden\":false,\"originalContainerId\":\"debug:view-container:-1\",\"originalContainerTitle\":{\"label\":\"debug\",\"iconClass\":\"codicon codicon-debug-alt\",\"closeable\":true}},{\"partId\":\"debug:frames:-1\",\"collapsed\":false,\"hidden\":false,\"originalContainerId\":\"debug:view-container:-1\",\"originalContainerTitle\":{\"label\":\"debug\",\"iconClass\":\"codicon codicon-debug-alt\",\"closeable\":true}},{\"partId\":\"debug:variables:-1\",\"collapsed\":false,\"hidden\":false,\"originalContainerId\":\"debug:view-container:-1\",\"originalContainerTitle\":{\"label\":\"debug\",\"iconClass\":\"codicon codicon-debug-alt\",\"closeable\":true}},{\"partId\":\"debug:watch:-1\",\"collapsed\":false,\"hidden\":false,\"originalContainerId\":\"debug:view-container:-1\",\"originalContainerTitle\":{\"label\":\"debug\",\"iconClass\":\"codicon codicon-debug-alt\",\"closeable\":true}},{\"partId\":\"debug:breakpoints:-1\",\"collapsed\":false,\"hidden\":false,\"originalContainerId\":\"debug:view-container:-1\",\"originalContainerTitle\":{\"label\":\"debug\",\"iconClass\":\"codicon codicon-debug-alt\",\"closeable\":true}},{\"partId\":\"plugin-view:cortex-debug.peripherals\",\"collapsed\":true,\"hidden\":true,\"originalContainerId\":\"debug:view-container:-1\",\"originalContainerTitle\":{\"label\":\"debug\",\"iconClass\":\"codicon codicon-debug-alt\",\"closeable\":true},\"widget\":{\"constructionOptions\":{\"factoryId\":\"plugin-view\",\"options\":{\"id\":\"plugin-view:cortex-debug.peripherals\",\"viewId\":\"cortex-debug.peripherals\"}},\"innerWidgetState\":\"{\\\"label\\\":\\\"Cortex Peripherals\\\",\\\"widgets\\\":[],\\\"suppressUpdateViewVisibility\\\":false,\\\"currentViewContainerId\\\":\\\"debug\\\"}\"}},{\"partId\":\"plugin-view:cortex-debug.registers\",\"collapsed\":true,\"hidden\":true,\"originalContainerId\":\"debug:view-container:-1\",\"originalContainerTitle\":{\"label\":\"debug\",\"iconClass\":\"codicon codicon-debug-alt\",\"closeable\":true},\"widget\":{\"constructionOptions\":{\"factoryId\":\"plugin-view\",\"options\":{\"id\":\"plugin-view:cortex-debug.registers\",\"viewId\":\"cortex-debug.registers\"}},\"innerWidgetState\":\"{\\\"label\\\":\\\"Cortex Registers\\\",\\\"widgets\\\":[],\\\"suppressUpdateViewVisibility\\\":false,\\\"currentViewContainerId\\\":\\\"debug\\\"}\"}}],\"title\":{\"label\":\"debug\",\"iconClass\":\"codicon codicon-debug-alt\",\"closeable\":true}}"},"rank":4,"expanded":false,"pinned":false},{"widget":{"constructionOptions":{"factoryId":"search-view-container"},"innerWidgetState":"{\"parts\":[{\"partId\":\"search-in-workspace\",\"collapsed\":false,\"hidden\":false,\"originalContainerId\":\"search-view-container\",\"originalContainerTitle\":{\"label\":\"Search\",\"iconClass\":\"codicon codicon-search\",\"closeable\":true},\"widget\":{\"constructionOptions\":{\"factoryId\":\"search-in-workspace\"},\"innerWidgetState\":\"{\\\"matchCaseState\\\":{\\\"className\\\":\\\"codicon codicon-case-sensitive\\\",\\\"enabled\\\":false,\\\"title\\\":\\\"Match Case\\\"},\\\"wholeWordState\\\":{\\\"className\\\":\\\"codicon codicon-whole-word\\\",\\\"enabled\\\":false,\\\"title\\\":\\\"Match Whole Word\\\"},\\\"regExpState\\\":{\\\"className\\\":\\\"codicon codicon-regex\\\",\\\"enabled\\\":false,\\\"title\\\":\\\"Use Regular Expression\\\"},\\\"includeIgnoredState\\\":{\\\"className\\\":\\\"codicon codicon-eye\\\",\\\"enabled\\\":false,\\\"title\\\":\\\"Include Ignored Files\\\"},\\\"showSearchDetails\\\":false,\\\"searchInWorkspaceOptions\\\":{\\\"matchCase\\\":false,\\\"matchWholeWord\\\":false,\\\"useRegExp\\\":false,\\\"includeIgnored\\\":false,\\\"include\\\":[],\\\"exclude\\\":[],\\\"maxResults\\\":2000},\\\"searchTerm\\\":\\\"\\\",\\\"replaceTerm\\\":\\\"\\\",\\\"showReplaceField\\\":false,\\\"searchHistoryState\\\":{\\\"history\\\":[],\\\"index\\\":0},\\\"replaceHistoryState\\\":{\\\"history\\\":[],\\\"index\\\":0},\\\"includeHistoryState\\\":{\\\"history\\\":[],\\\"index\\\":0},\\\"excludeHistoryState\\\":{\\\"history\\\":[],\\\"index\\\":0}}\"}}],\"title\":{\"label\":\"Search\",\"iconClass\":\"fa fa-arduino-search\",\"closeable\":true}}"},"rank":5,"expanded":false,"pinned":false}]},"rightPanel":{"type":"sidepanel","items":[]},"activeWidgetId":"code-editor-opener:file:///home/amrit/Arduino/temperatureRead/temperatureRead.ino:0"}
+2022-12-11 07:51:33 2022-12-11T07:51:33.965Z root INFO ------- END SERIALIZED LAYOUT DATA -------
+2022-12-11 07:51:34 2022-12-11T07:51:34.103Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a] Waiting for backend deployment: 265.1 ms [Finished 9.820 s after frontend start]
+2022-12-11 07:51:34 2022-12-11T07:51:34.384Z root ERROR Request initAuthSession failed with error: The name org.freedesktop.secrets was not provided by any .service files
+2022-12-11 07:51:35 2022-12-11T07:51:35.738Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987) starting instance
+2022-12-11 07:51:36 2022-12-11T07:51:36.424Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a] Sync of 21 plugins: 2337.8 ms [Finished 12.158 s after frontend start]
+2022-12-11 07:51:37 2022-12-11T07:51:37.055Z root INFO <<< The layout has been successfully restored.
+2022-12-11 07:51:37 2022-12-11T07:51:37.333Z root INFO Initialize the workbench layout: 3138.4 ms [Finished 12.791 s after frontend start]
+2022-12-11 07:51:37 2022-12-11T07:51:37.384Z root INFO Changed application state from 'attached_shell' to 'initialized_layout'.
+2022-12-11 07:51:37 2022-12-11T07:51:37.385Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][marus25.cortex-debug]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.385Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][arduino.vscode-arduino-tools]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.387Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][vscode.cpp]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.393Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][vscode.json]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.393Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][vscode.json-language-features]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.393Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-bg]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.394Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-cs]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.394Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-de]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.394Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-es]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.394Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-fr]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.394Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-hu]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.394Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-it]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.394Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-ja]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.394Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-ko]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.394Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-nl]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.395Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-pl]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.395Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-pt-br]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.395Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-ru]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.395Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-tr]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.395Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-uk]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.395Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-zh-hans]: Loaded contributions.
+2022-12-11 07:51:37 2022-12-11T07:51:37.395Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a] Load contributions of 21 plugins: 243.5 ms [Finished 13.057 s after frontend start]
+2022-12-11 07:51:37 2022-12-11T07:51:37.548Z root WARN 'cpp' language is remapped from 'source.cpp.embedded.macro' to 'source.cpp' scope
+2022-12-11 07:51:37 2022-12-11T07:51:37.550Z root WARN a registered grammar configuration for 'cpp' language is overridden
+2022-12-11 07:51:39 2022-12-11T07:51:39.764Z root INFO Frontend application start: 7028.7 ms [Finished 24.882 s after backend start]
+2022-12-11 07:51:39 2022-12-11T07:51:39.775Z root INFO Replace loading indicator with ready workbench UI (animation): 1182.6 ms [Finished 14.247 s after frontend start]
+2022-12-11 07:51:39 2022-12-11T07:51:39.775Z root INFO Changed application state from 'initialized_layout' to 'ready'.
+2022-12-11 07:51:39 2022-12-11T07:51:39.776Z root WARN Linked preference "workbench.colorCustomizations" not found. Source: "editor.bracketPairColorization.enabled"
+2022-12-11 07:51:41 2022-12-11T07:51:41.532Z daemon INFO [36mINFO[0m[0018] Updating libraries index                     
+[36mINFO[0m[0018] Updating index                                [36murl[0m="https://downloads.arduino.cc/packages/package_index.tar.bz2"
+
+2022-12-11 07:51:41 2022-12-11T07:51:41.540Z root INFO core-client-provider [library-index]
+2022-12-11 07:51:41 2022-12-11T07:51:41.545Z root INFO core-client-provider [platform-index]
+2022-12-11 07:51:43 2022-12-11T07:51:43.509Z root ERROR ---- !!!SLOW!!! DURATION: search took 2671.861 ms. Args: [{"type":"Updatable"}] ----
+2022-12-11 07:51:43 2022-12-11T07:51:43.521Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): PluginManagerExtImpl/init()
+2022-12-11 07:51:43 2022-12-11T07:51:43.541Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(cortex-debug@1.5.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.563Z root INFO [hosted-plugin: 1987] Debugger contribution has been registered: cortex-debug
+2022-12-11 07:51:43 2022-12-11T07:51:43.567Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-arduino-tools@0.0.2-beta.5 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+PLUGIN_HOST(1987): initializing(cpp@1.52.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.570Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(json@1.46.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.574Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(json-language-features@1.46.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.575Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-bg@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.576Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-cs@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.578Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-de@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.579Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-es@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.581Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-fr@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.583Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-hu@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.585Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-it@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.586Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-ja@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.587Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-ko@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.587Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-nl@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.588Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-pl@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.589Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-pt-BR@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.589Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-ru@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.591Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-tr@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.593Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-uk@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.594Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): initializing(vscode-language-pack-zh-hans@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 07:51:43 2022-12-11T07:51:43.599Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain)
+2022-12-11 07:51:43 2022-12-11T07:51:43.742Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle)
+2022-12-11 07:51:43 2022-12-11T07:51:43.837Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][marus25.cortex-debug]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.838Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][arduino.vscode-arduino-tools]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.840Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][vscode.cpp]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.843Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][vscode.json]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.843Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][vscode.json-language-features]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.847Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-bg]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.847Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-cs]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.848Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-de]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.848Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-es]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.848Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-fr]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.849Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-hu]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.849Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-it]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.849Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-ja]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.849Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-ko]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.850Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-nl]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.850Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-pl]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.850Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-pt-br]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.850Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-ru]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.851Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-tr]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.852Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-uk]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.852Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a][ms-ceintl.vscode-language-pack-zh-hans]: Started plugin.
+2022-12-11 07:51:43 2022-12-11T07:51:43.870Z root INFO [hosted-plugin: 1987] PLUGIN_HOST(1987): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/cortex-debug/extension/dist/extension.js)
+2022-12-11 07:51:43 2022-12-11T07:51:43.991Z root INFO [hosted-plugin: 1987] Debug configuration provider has been registered: cortex-debug, trigger: 1
+2022-12-11 07:51:43 2022-12-11T07:51:43.996Z root INFO [hosted-plugin: 1987] GDB server console created
+2022-12-11 07:51:44 2022-12-11T07:51:44.035Z root INFO [cccc43d7-2e3f-4d23-8e5a-dfe2cb4f3b2a] Start of 21 plugins: 6630.5 ms [Finished 19.760 s after frontend start]
+2022-12-11 07:51:44 2022-12-11T07:51:44.070Z root INFO Starting language server: arduino:avr:uno
+2022-12-11 07:51:44 2022-12-11T07:51:44.434Z daemon INFO [36mINFO[0m[0021] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0021] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0021] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0021] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0021] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0021] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0021] Adding libraries dir                          [36mdir[0m=/home/amrit/Arduino/libraries [36mlocation[0m=user
+
+2022-12-11 07:51:45 2022-12-11T07:51:45.484Z daemon INFO [36mINFO[0m[0022] Loading hardware from: /home/amrit/.arduino15/packages 
+
+2022-12-11 07:51:45 2022-12-11T07:51:45.485Z daemon INFO [36mINFO[0m[0022] Loading package arduino from: /home/amrit/.arduino15/packages/arduino/hardware 
+
+2022-12-11 07:51:45 2022-12-11T07:51:45.488Z daemon INFO [36mINFO[0m[0022] Checking signature                            [36merror[0m="opening signature file: open /home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig: no such file or directory" [36mindex[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json [36msignatureFile[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig
+
+2022-12-11 07:51:45 2022-12-11T07:51:45.492Z daemon INFO [36mINFO[0m[0022] Adding monitor tool                           [36mprotocol[0m=serial [36mtool[0m="builtin:serial-monitor"
+[36mINFO[0m[0022] Loaded platform                               [36mplatform[0m="arduino:avr@1.8.6"
+[36mINFO[0m[0022] Checking existence of 'tools' path: /home/amrit/.arduino15/packages/arduino/tools 
+[36mINFO[0m[0022] Loading tools from dir: /home/amrit/.arduino15/packages/arduino/tools 
+
+2022-12-11 07:51:45 2022-12-11T07:51:45.494Z daemon INFO [36mINFO[0m[0022] Loaded tool                                   [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0022] Loaded tool                                   [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0022] Loaded tool                                   [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0022] Loading package builtin from: /home/amrit/.arduino15/packages/builtin 
+[36mINFO[0m[0022] Checking existence of 'tools' path: /home/amrit/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0022] Loading tools from dir: /home/amrit/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0022] Loaded tool                                   [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0022] Loaded tool                                   [36mtool[0m="builtin:mdns-discovery@1.0.6"
+[36mINFO[0m[0022] Loaded tool                                   [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[0022] Loaded tool                                   [36mtool[0m="builtin:serial-monitor@0.11.0"
+
+2022-12-11 07:51:45 2022-12-11T07:51:45.532Z daemon INFO [36mINFO[0m[0022] Checking signature                            [36mindex[0m=/home/amrit/.arduino15/package_index.json [36msignatureFile[0m=/home/amrit/.arduino15/package_index.json.sig [36mtrusted[0m=true
+
+2022-12-11 07:51:45 2022-12-11T07:51:45.781Z daemon INFO [36mINFO[0m[0023] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0023] Loading libraries index file                  [36mindex[0m=/home/amrit/.arduino15/library_index.json
+
+2022-12-11 07:51:45 2022-12-11T07:51:45.790Z daemon INFO [36mINFO[0m[0023] Searching tools required for board arduino:avr:uno 
+
+2022-12-11 07:51:45 2022-12-11T07:51:45.791Z daemon INFO [36mINFO[0m[0023] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0023] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0023] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-11 07:51:46 2022-12-11T07:51:46.094Z daemon INFO [36mINFO[0m[0023] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/libraries [36mlocation[0m=ide
+
+2022-12-11 07:51:46 2022-12-11T07:51:46.095Z daemon INFO [36mINFO[0m[0023] Adding libraries dir                          [36mdir[0m=/home/amrit/Arduino/libraries [36mlocation[0m=user
+
+2022-12-11 07:57:57 2022-12-11T07:57:57.780Z daemon INFO [36mINFO[0m[0395] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyUSB0 
+
+2022-12-11 07:57:57 2022-12-11T07:57:57.783Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[]}},"error":""}
+2022-12-11 07:57:58 2022-12-11T07:57:58.059Z root INFO Attached boards and available ports changed:
+2022-12-11 07:57:58 2022-12-11T07:57:58.060Z root INFO  - Port is no longer available on /dev/ttyUSB0 Serial Port (USB)
+2022-12-11 07:57:58 2022-12-11T07:57:58.060Z root INFO ------------------------------------------
+2022-12-11 08:01:28 2022-12-11T08:01:28.554Z root INFO Updating daemon with 'data': {
+  "board_manager": {
+    "additional_urls": [
+      "http://arduino.esp8266.com/stable/package_esp8266com_index.json"
+    ]
+  },
+  "daemon": {
+    "port": "50051"
+  },
+  "directories": {
+    "data": "/home/amrit/.arduino15",
+    "user": "/home/amrit/Arduino"
+  },
+  "library": {
+    "enable_unsafe_install": false
+  },
+  "logging": {
+    "file": "",
+    "format": "text",
+    "level": "info"
+  },
+  "metrics": {
+    "addr": ":9090",
+    "enabled": true
+  },
+  "output": {
+    "no_color": false
+  },
+  "sketch": {
+    "always_export_binaries": false
+  },
+  "updater": {
+    "enable_notification": true
+  },
+  "locale": "en",
+  "network": {}
+}
+2022-12-11 08:01:28 2022-12-11T08:01:28.676Z daemon INFO [36mINFO[0m[0605] Updating index                                [36murl[0m="https://downloads.arduino.cc/packages/package_index.tar.bz2"
+
+2022-12-11 08:01:28 2022-12-11T08:01:28.679Z root INFO core-client-provider [platform-index]
+2022-12-11 08:01:30 2022-12-11T08:01:30.008Z daemon INFO [36mINFO[0m[0607] Updating index                                [36murl[0m="http://arduino.esp8266.com/stable/package_esp8266com_index.json"
+
+2022-12-11 08:01:30 2022-12-11T08:01:30.010Z root INFO core-client-provider [platform-index]
+2022-12-11 08:01:30 2022-12-11T08:01:30.265Z daemon INFO [36mINFO[0m[0607] Loading hardware from: /home/amrit/.arduino15/packages 
+
+2022-12-11 08:01:30 2022-12-11T08:01:30.266Z daemon INFO [36mINFO[0m[0607] Loading package arduino from: /home/amrit/.arduino15/packages/arduino/hardware 
+
+2022-12-11 08:01:30 2022-12-11T08:01:30.269Z daemon INFO [36mINFO[0m[0607] Checking signature                            [36merror[0m="opening signature file: open /home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig: no such file or directory" [36mindex[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json [36msignatureFile[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig
+
+2022-12-11 08:01:30 2022-12-11T08:01:30.272Z daemon INFO [36mINFO[0m[0607] Adding monitor tool                           [36mprotocol[0m=serial [36mtool[0m="builtin:serial-monitor"
+[36mINFO[0m[0607] Loaded platform                               [36mplatform[0m="arduino:avr@1.8.6"
+[36mINFO[0m[0607] Checking existence of 'tools' path: /home/amrit/.arduino15/packages/arduino/tools 
+[36mINFO[0m[0607] Loading tools from dir: /home/amrit/.arduino15/packages/arduino/tools 
+
+2022-12-11 08:01:30 2022-12-11T08:01:30.272Z daemon INFO [36mINFO[0m[0607] Loaded tool                                   [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0607] Loaded tool                                   [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0607] Loaded tool                                   [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0607] Loading package builtin from: /home/amrit/.arduino15/packages/builtin 
+[36mINFO[0m[0607] Checking existence of 'tools' path: /home/amrit/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0607] Loading tools from dir: /home/amrit/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0607] Loaded tool                                   [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0607] Loaded tool                                   [36mtool[0m="builtin:mdns-discovery@1.0.6"
+[36mINFO[0m[0607] Loaded tool                                   [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[0607] Loaded tool                                   [36mtool[0m="builtin:serial-monitor@0.11.0"
+
+2022-12-11 08:01:30 2022-12-11T08:01:30.283Z daemon INFO [36mINFO[0m[0607] Checking signature                            [36mindex[0m=/home/amrit/.arduino15/package_index.json [36msignatureFile[0m=/home/amrit/.arduino15/package_index.json.sig [36mtrusted[0m=true
+
+2022-12-11 08:01:30 2022-12-11T08:01:30.289Z daemon INFO [36mINFO[0m[0607] Checking signature                            [36merror[0m="opening signature file: open /home/amrit/.arduino15/package_esp8266com_index.json.sig: no such file or directory" [36mindex[0m=/home/amrit/.arduino15/package_esp8266com_index.json [36msignatureFile[0m=/home/amrit/.arduino15/package_esp8266com_index.json.sig
+
+2022-12-11 08:01:30 2022-12-11T08:01:30.290Z daemon INFO [36mINFO[0m[0607] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0607] Loading libraries index file                  [36mindex[0m=/home/amrit/.arduino15/library_index.json
+
+2022-12-11 08:01:30 2022-12-11T08:01:30.594Z daemon INFO [36mINFO[0m[0607] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0607] Adding libraries dir                          [36mdir[0m=/home/amrit/Arduino/libraries [36mlocation[0m=user
+
+2022-12-11 08:02:13 2022-12-11T08:02:13.840Z root INFO >>> Starting boards package installation...
+2022-12-11 08:02:13 2022-12-11T08:02:13.841Z discovery-log INFO stop
+2022-12-11 08:02:13 2022-12-11T08:02:13.841Z discovery-log INFO >>> Stopping boards watcher...
+2022-12-11 08:02:13 2022-12-11T08:02:13.841Z discovery-log INFO Canceling boards watcher...
+2022-12-11 08:02:13 2022-12-11T08:02:13.842Z discovery-log INFO disposing requesting cancel
+2022-12-11 08:02:13 2022-12-11T08:02:13.842Z discovery-log INFO disposing canceled
+2022-12-11 08:02:13 2022-12-11T08:02:13.848Z discovery-log INFO error received
+2022-12-11 08:02:13 2022-12-11T08:02:13.849Z discovery-log INFO cancel error received!
+2022-12-11 08:02:13 2022-12-11T08:02:13.849Z discovery-log INFO stop received event: either end or cancel
+2022-12-11 08:02:13 2022-12-11T08:02:13.849Z discovery-log INFO stop stopped
+2022-12-11 08:02:13 2022-12-11T08:02:13.850Z discovery-log INFO received end
+2022-12-11 08:02:13 2022-12-11T08:02:13.854Z daemon INFO [36mINFO[0m[0651] boards watcher stream closed                 
+
+2022-12-11 08:02:39 2022-12-11T08:02:39.938Z daemon INFO [36mINFO[0m[0677] Installing tool                               [36mTool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:02:46 2022-12-11T08:02:46.667Z daemon INFO [36mINFO[0m[0683] Tool installed                                [36mTool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:02:46 2022-12-11T08:02:46.667Z daemon INFO [36mINFO[0m[0683] Installing tool                               [36mTool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:02:46 2022-12-11T08:02:46.687Z daemon INFO [36mINFO[0m[0683] Tool installed                                [36mTool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[0683] Installing tool                               [36mTool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:02:46 2022-12-11T08:02:46.694Z daemon INFO [36mINFO[0m[0684] Tool installed                                [36mTool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:02:46 2022-12-11T08:02:46.695Z daemon INFO [36mINFO[0m[0684] Installing tool                               [36mTool[0m="esp8266:python3@3.7.2-post1"
+
+2022-12-11 08:02:46 2022-12-11T08:02:46.700Z daemon INFO [36mINFO[0m[0684] Tool installed                                [36mTool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[0684] Installing platform                           [36mplatform[0m="esp8266:esp8266@3.0.2"
+
+2022-12-11 08:02:49 2022-12-11T08:02:49.933Z daemon INFO [36mINFO[0m[0687] Running post_install script                   [36mplatform[0m="esp8266:esp8266@3.0.2"
+
+2022-12-11 08:02:49 2022-12-11T08:02:49.934Z daemon INFO [36mINFO[0m[0687] Platform installed                            [36mplatform[0m="esp8266:esp8266@3.0.2"
+[36mINFO[0m[0687] Loading hardware from: /home/amrit/.arduino15/packages 
+[36mINFO[0m[0687] Loading package arduino from: /home/amrit/.arduino15/packages/arduino/hardware 
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.083Z daemon INFO [36mINFO[0m[0687] Checking signature                            [36merror[0m="opening signature file: open /home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig: no such file or directory" [36mindex[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json [36msignatureFile[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.185Z daemon INFO [36mINFO[0m[0687] Adding monitor tool                           [36mprotocol[0m=serial [36mtool[0m="builtin:serial-monitor"
+[36mINFO[0m[0687] Loaded platform                               [36mplatform[0m="arduino:avr@1.8.6"
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.185Z daemon INFO [36mINFO[0m[0687] Checking existence of 'tools' path: /home/amrit/.arduino15/packages/arduino/tools 
+[36mINFO[0m[0687] Loading tools from dir: /home/amrit/.arduino15/packages/arduino/tools 
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.191Z daemon INFO [36mINFO[0m[0687] Loaded tool                                   [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.192Z daemon INFO [36mINFO[0m[0687] Loaded tool                                   [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0687] Loaded tool                                   [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0687] Loading package builtin from: /home/amrit/.arduino15/packages/builtin 
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.194Z daemon INFO [36mINFO[0m[0687] Checking existence of 'tools' path: /home/amrit/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0687] Loading tools from dir: /home/amrit/.arduino15/packages/builtin/tools 
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.195Z daemon INFO [36mINFO[0m[0687] Loaded tool                                   [36mtool[0m="builtin:ctags@5.8-arduino11"
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.200Z daemon INFO [36mINFO[0m[0687] Loaded tool                                   [36mtool[0m="builtin:mdns-discovery@1.0.6"
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.200Z daemon INFO [36mINFO[0m[0687] Loaded tool                                   [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[0687] Loaded tool                                   [36mtool[0m="builtin:serial-monitor@0.11.0"
+[36mINFO[0m[0687] Loading package esp8266 from: /home/amrit/.arduino15/packages/esp8266/hardware 
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.204Z daemon INFO [36mINFO[0m[0687] Checking signature                            [36merror[0m="opening signature file: open /home/amrit/.arduino15/packages/esp8266/hardware/esp8266/3.0.2/installed.json.sig: no such file or directory" [36mindex[0m=/home/amrit/.arduino15/packages/esp8266/hardware/esp8266/3.0.2/installed.json [36msignatureFile[0m=/home/amrit/.arduino15/packages/esp8266/hardware/esp8266/3.0.2/installed.json.sig
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.259Z daemon INFO [36mINFO[0m[0687] Adding monitor tool                           [36mprotocol[0m=serial [36mtool[0m="builtin:serial-monitor"
+[36mINFO[0m[0687] Loaded platform                               [36mplatform[0m="esp8266:esp8266@3.0.2"
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.261Z daemon INFO [36mINFO[0m[0687] Checking existence of 'tools' path: /home/amrit/.arduino15/packages/esp8266/tools 
+[36mINFO[0m[0687] Loading tools from dir: /home/amrit/.arduino15/packages/esp8266/tools 
+[36mINFO[0m[0687] Loaded tool                                   [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[0687] Loaded tool                                   [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[0687] Loaded tool                                   [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[0687] Loaded tool                                   [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.311Z daemon INFO [36mINFO[0m[0687] Checking signature                            [36mindex[0m=/home/amrit/.arduino15/package_index.json [36msignatureFile[0m=/home/amrit/.arduino15/package_index.json.sig [36mtrusted[0m=true
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.326Z daemon INFO [36mINFO[0m[0687] Checking signature                            [36merror[0m="opening signature file: open /home/amrit/.arduino15/package_esp8266com_index.json.sig: no such file or directory" [36mindex[0m=/home/amrit/.arduino15/package_esp8266com_index.json [36msignatureFile[0m=/home/amrit/.arduino15/package_esp8266com_index.json.sig
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.327Z daemon INFO [36mINFO[0m[0687] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+
+2022-12-11 08:02:50 2022-12-11T08:02:50.328Z daemon INFO [36mINFO[0m[0687] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries [36mlocation[0m=platform
+[36mINFO[0m[0687] Loading libraries index file                  [36mindex[0m=/home/amrit/.arduino15/library_index.json
+
+2022-12-11 08:02:51 2022-12-11T08:02:51.117Z daemon INFO [36mINFO[0m[0688] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/libraries [36mlocation[0m=ide
+
+2022-12-11 08:02:51 2022-12-11T08:02:51.118Z daemon INFO [36mINFO[0m[0688] Adding libraries dir                          [36mdir[0m=/home/amrit/Arduino/libraries [36mlocation[0m=user
+
+2022-12-11 08:02:51 2022-12-11T08:02:51.329Z discovery-log INFO start
+2022-12-11 08:02:51 2022-12-11T08:02:51.329Z discovery-log INFO start new deferred
+2022-12-11 08:02:51 2022-12-11T08:02:51.330Z discovery-log INFO start request start watch
+2022-12-11 08:02:51 2022-12-11T08:02:51.330Z discovery-log INFO start requested start watch
+2022-12-11 08:02:51 2022-12-11T08:02:51.330Z discovery-log INFO start resolved watching
+2022-12-11 08:02:51 2022-12-11T08:02:51.336Z daemon INFO [36mINFO[0m[0688] starting discovery builtin:mdns-discovery process 
+[36mINFO[0m[0688] starting discovery builtin:serial-discovery process 
+[36mINFO[0m[0688] started discovery builtin:serial-discovery process 
+[36mINFO[0m[0688] sending command HELLO 1 "arduino-cli 0.29.0" to discovery builtin:serial-discovery 
+
+2022-12-11 08:02:51 2022-12-11T08:02:51.339Z daemon INFO [36mINFO[0m[0688] from discovery builtin:serial-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0688] sending command START_SYNC to discovery builtin:serial-discovery 
+
+2022-12-11 08:02:51 2022-12-11T08:02:51.342Z daemon INFO [36mINFO[0m[0688] from discovery builtin:serial-discovery received message type: start_sync, message: OK 
+
+2022-12-11 08:02:51 2022-12-11T08:02:51.384Z root INFO <<< Boards package installation done.
+2022-12-11 08:02:51 2022-12-11T08:02:51.385Z daemon INFO [36mINFO[0m[0688] started discovery builtin:mdns-discovery process 
+[36mINFO[0m[0688] sending command HELLO 1 "arduino-cli 0.29.0" to discovery builtin:mdns-discovery 
+
+2022-12-11 08:02:51 2022-12-11T08:02:51.413Z root INFO Boards package installed: 
+2022-12-11 08:02:51 2022-12-11T08:02:51.415Z daemon INFO [36mINFO[0m[0688] from discovery builtin:mdns-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0688] sending command START_SYNC to discovery builtin:mdns-discovery 
+[36mINFO[0m[0688] from discovery builtin:mdns-discovery received message type: start_sync, message: OK 
+
+2022-12-11 08:02:52 2022-12-11T08:02:52.274Z root ERROR Request getBoardDetails failed with error: 5 NOT_FOUND: Unknown FQBN: getting build properties for board esp8266:esp8266:eduinowifi: invalid value '512000' for option 'baud'
+2022-12-11 08:03:05 2022-12-11T08:03:05.642Z root ERROR ---- !!!SLOW!!! DURATION: search took 2203.826 ms. Args: [{"query":"","type":"All","topic":"All"}] ----
+2022-12-11 08:03:06 2022-12-11T08:03:06.835Z root ERROR Error: Minified React error #185; visit https://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at nc (file:///opt/arduino-ide/resources/app/lib/bundle.js:2:9533916)
+    at Object.enqueueForceUpdate (file:///opt/arduino-ide/resources/app/lib/bundle.js:2:9485240)
+    at t.b.forceUpdate (file:///opt/arduino-ide/resources/app/lib/bundle.js:2:9840644)
+    at t.value (file:///opt/arduino-ide/resources/app/lib/bundle.js:2:9715571)
+    at t.value (file:///opt/arduino-ide/resources/app/lib/bundle.js:2:9723784)
+    at t.value (file:///opt/arduino-ide/resources/app/lib/bundle.js:2:9717453)
+    at yl (file:///opt/arduino-ide/resources/app/lib/bundle.js:2:9531902)
+    at Al (file:///opt/arduino-ide/resources/app/lib/bundle.js:2:9531578)
+    at vl (file:///opt/arduino-ide/resources/app/lib/bundle.js:2:9531116)
+    at file:///opt/arduino-ide/resources/app/lib/bundle.js:2:9542896
+2022-12-11 08:03:10 2022-12-11T08:03:10.405Z root WARN Widget was activated, but did not accept focus after 2000ms: search-in-workspace
+2022-12-11 08:03:23 2022-12-11T08:03:23.884Z root WARN Frontend a.configure took longer than the expected maximum 100 milliseconds: 1005.9 ms [Finished 5.464 s after frontend start]
+2022-12-11 08:03:24 2022-12-11T08:03:24.085Z root WARN Frontend keybindings.onStart took longer than the expected maximum 100 milliseconds: 148.2 ms [Finished 5.659 s after frontend start]
+2022-12-11 08:03:24 2022-12-11T08:03:24.359Z root WARN Frontend l.onStart took longer than the expected maximum 100 milliseconds: 193.8 ms [Finished 5.979 s after frontend start]
+2022-12-11 08:03:24 2022-12-11T08:03:24.447Z root INFO Start frontend contributions: 1774.2 ms [Finished 6.001 s after frontend start]
+2022-12-11 08:03:24 2022-12-11T08:03:24.447Z root INFO Changed application state from 'init' to 'started_contributions'.
+2022-12-11 08:03:24 2022-12-11T08:03:24.472Z root INFO Changed application state from 'started_contributions' to 'attached_shell'.
+2022-12-11 08:03:24 2022-12-11T08:03:24.474Z root INFO >>> Restoring the layout state...
+2022-12-11 08:03:24 2022-12-11T08:03:24.474Z root INFO <<< Nothing to restore.
+2022-12-11 08:03:24 2022-12-11T08:03:24.548Z root INFO Initialize the workbench layout: 58.2 ms [Finished 6.156 s after frontend start]
+2022-12-11 08:03:24 2022-12-11T08:03:24.584Z root INFO Changed application state from 'attached_shell' to 'initialized_layout'.
+2022-12-11 08:03:25 2022-12-11T08:03:25.134Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a] Waiting for backend deployment: 766.6 ms [Finished 6.752 s after frontend start]
+2022-12-11 08:03:25 2022-12-11T08:03:25.534Z root ERROR Request initAuthSession failed with error: The name org.freedesktop.secrets was not provided by any .service files
+2022-12-11 08:03:26 2022-12-11T08:03:26.981Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568) starting instance
+2022-12-11 08:03:27 2022-12-11T08:03:27.333Z root INFO Frontend application start: 3506.1 ms [Finished 732.451 s after backend start]
+2022-12-11 08:03:27 2022-12-11T08:03:27.346Z root INFO Replace loading indicator with ready workbench UI (animation): 1115.1 ms [Finished 7.288 s after frontend start]
+2022-12-11 08:03:27 2022-12-11T08:03:27.347Z root INFO Changed application state from 'initialized_layout' to 'ready'.
+2022-12-11 08:03:27 2022-12-11T08:03:27.439Z root WARN Linked preference "workbench.colorCustomizations" not found. Source: "editor.bracketPairColorization.enabled"
+2022-12-11 08:03:27 2022-12-11T08:03:27.440Z root INFO Executing startup tasks:
+2022-12-11 08:03:27 2022-12-11T08:03:27.440Z root INFO  - 'arduino-use-inherited-boards-config' , args: [{"selectedBoard":{"fqbn":"arduino:avr:uno","name":"Arduino Uno","port":{"address":"/dev/ttyACM0","addressLabel":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","properties":{"pid":"0x0043","serialNumber":"7503330343435120C102","vid":"0x2341"}},"state":0,"selected":false}}]
+2022-12-11 08:03:28 2022-12-11T08:03:28.737Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a] Sync of 21 plugins: 3544.6 ms [Finished 10.297 s after frontend start]
+2022-12-11 08:03:28 2022-12-11T08:03:28.740Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][marus25.cortex-debug]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.744Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][arduino.vscode-arduino-tools]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.744Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][vscode.cpp]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.744Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][vscode.json]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.744Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][vscode.json-language-features]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.744Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-bg]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.744Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-cs]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.745Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-de]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.745Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-es]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.745Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-fr]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.745Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-hu]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.745Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-it]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.745Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-ja]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.745Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-ko]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.745Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-nl]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.754Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-pl]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.755Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-pt-br]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.755Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-ru]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.755Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-tr]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.755Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-uk]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.756Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-zh-hans]: Loaded contributions.
+2022-12-11 08:03:28 2022-12-11T08:03:28.756Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a] Load contributions of 21 plugins: 59.4 ms [Finished 10.357 s after frontend start]
+2022-12-11 08:03:29 2022-12-11T08:03:29.900Z root WARN 'cpp' language is remapped from 'source.cpp.embedded.macro' to 'source.cpp' scope
+2022-12-11 08:03:29 2022-12-11T08:03:29.901Z root WARN a registered grammar configuration for 'cpp' language is overridden
+2022-12-11 08:03:31 2022-12-11T08:03:31.028Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): PluginManagerExtImpl/init()
+2022-12-11 08:03:31 2022-12-11T08:03:31.070Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(cortex-debug@1.5.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.106Z root INFO [hosted-plugin: 2568] Debugger contribution has been registered: cortex-debug
+2022-12-11 08:03:31 2022-12-11T08:03:31.114Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-arduino-tools@0.0.2-beta.5 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.118Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(cpp@1.52.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.119Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(json@1.46.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.120Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(json-language-features@1.46.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.121Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-bg@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.122Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-cs@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.128Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-de@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.135Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-es@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.141Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-fr@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.145Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-hu@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.150Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-it@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.157Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-ja@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.161Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-ko@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.167Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-nl@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.170Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-pl@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.175Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-pt-BR@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.182Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-ru@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.189Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-tr@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.194Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-uk@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.199Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): initializing(vscode-language-pack-zh-hans@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:03:31 2022-12-11T08:03:31.203Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain)
+2022-12-11 08:03:31 2022-12-11T08:03:31.314Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][marus25.cortex-debug]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.322Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][arduino.vscode-arduino-tools]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.323Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][vscode.cpp]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.323Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][vscode.json]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.323Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][vscode.json-language-features]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.323Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-bg]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.323Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-cs]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.323Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-de]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.323Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-es]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.323Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-fr]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.323Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-hu]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.323Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-it]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.324Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-ja]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.324Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-ko]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.324Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-nl]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.324Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-pl]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.324Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-pt-br]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.324Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-ru]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.324Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-tr]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.324Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-uk]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.324Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a][ms-ceintl.vscode-language-pack-zh-hans]: Started plugin.
+2022-12-11 08:03:31 2022-12-11T08:03:31.374Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/cortex-debug/extension/dist/extension.js)
+2022-12-11 08:03:31 2022-12-11T08:03:31.464Z root INFO [hosted-plugin: 2568] Debug configuration provider has been registered: cortex-debug, trigger: 1
+2022-12-11 08:03:31 2022-12-11T08:03:31.468Z root INFO [hosted-plugin: 2568] GDB server console created
+2022-12-11 08:03:31 2022-12-11T08:03:31.496Z root INFO [9dcc6ce3-894d-428e-b635-1fc50da56c4a] Start of 21 plugins: 2724.5 ms [Finished 13.117 s after frontend start]
+2022-12-11 08:03:31 2022-12-11T08:03:31.595Z root INFO Starting language server: arduino:avr:uno
+2022-12-11 08:03:31 2022-12-11T08:03:31.625Z root INFO [hosted-plugin: 2568] PLUGIN_HOST(2568): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle)
+2022-12-11 08:03:31 2022-12-11T08:03:31.939Z daemon INFO [36mINFO[0m[0729] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0729] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0729] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0729] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0729] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0729] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0729] Adding libraries dir                          [36mdir[0m=/home/amrit/Arduino/libraries [36mlocation[0m=user
+
+2022-12-11 08:03:32 2022-12-11T08:03:32.617Z daemon INFO [36mINFO[0m[0729] Searching tools required for board arduino:avr:uno 
+
+2022-12-11 08:03:32 2022-12-11T08:03:32.617Z daemon INFO [36mINFO[0m[0729] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0729] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+
+2022-12-11 08:03:32 2022-12-11T08:03:32.618Z daemon INFO [36mINFO[0m[0729] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-11 08:03:45 2022-12-11T08:03:45.772Z daemon INFO [36mINFO[0m[0743] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyUSB0 
+
+2022-12-11 08:03:45 2022-12-11T08:03:45.772Z daemon INFO [36mINFO[0m[0743] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyUSB0 
+
+2022-12-11 08:03:46 2022-12-11T08:03:46.956Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"/dev/ttyUSB0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x7523"],["serialNumber",""],["vid","0x1a86"]]}},"error":""}
+2022-12-11 08:03:47 2022-12-11T08:03:47.029Z root INFO Attached boards and available ports changed:
+2022-12-11 08:03:47 2022-12-11T08:03:47.031Z root INFO  - New port is available on /dev/ttyUSB0 Serial Port (USB)
+2022-12-11 08:03:47 2022-12-11T08:03:47.031Z root INFO ------------------------------------------
+2022-12-11 08:05:04 2022-12-11T08:05:04.253Z root INFO Starting language server: esp8266:esp8266:nodemcuv2
+2022-12-11 08:05:04 2022-12-11T08:05:04.357Z daemon INFO [36mINFO[0m[0821] Searching tools required for board esp8266:esp8266:nodemcuv2 
+[36mINFO[0m[0821] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[0821] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[0821] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[0821] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[0821] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0821] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries [36mlocation[0m=platform
+[36mINFO[0m[0821] Adding libraries dir                          [36mdir[0m=/home/amrit/Arduino/libraries [36mlocation[0m=user
+
+2022-12-11 08:05:08 2022-12-11T08:05:08.405Z daemon INFO [36mINFO[0m[0825] Searching tools required for board esp8266:esp8266:nodemcuv2 
+
+2022-12-11 08:05:08 2022-12-11T08:05:08.406Z daemon INFO [36mINFO[0m[0825] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[0825] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[0825] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[0825] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:05:14 2022-12-11T08:05:14.815Z root INFO Starting language server: arduino:avr:uno
+2022-12-11 08:05:15 2022-12-11T08:05:15.100Z daemon INFO [36mINFO[0m[0832] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0832] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0832] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0832] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0832] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0832] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0832] Adding libraries dir                          [36mdir[0m=/home/amrit/Arduino/libraries [36mlocation[0m=user
+
+2022-12-11 08:05:15 2022-12-11T08:05:15.379Z daemon INFO [36mINFO[0m[0832] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0832] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-11 08:05:15 2022-12-11T08:05:15.379Z daemon INFO [36mINFO[0m[0832] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0832] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-11 08:05:17 2022-12-11T08:05:17.542Z root INFO Starting language server: esp8266:esp8266:nodemcuv2
+2022-12-11 08:05:17 2022-12-11T08:05:17.665Z daemon INFO [36mINFO[0m[0834] Searching tools required for board esp8266:esp8266:nodemcuv2 
+
+2022-12-11 08:05:17 2022-12-11T08:05:17.666Z daemon INFO [36mINFO[0m[0834] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[0834] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[0834] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[0834] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[0834] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0834] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries [36mlocation[0m=platform
+[36mINFO[0m[0834] Adding libraries dir                          [36mdir[0m=/home/amrit/Arduino/libraries [36mlocation[0m=user
+
+2022-12-11 08:05:18 2022-12-11T08:05:18.666Z daemon INFO [36mINFO[0m[0835] Searching tools required for board esp8266:esp8266:nodemcuv2 
+
+2022-12-11 08:05:18 2022-12-11T08:05:18.667Z daemon INFO [36mINFO[0m[0835] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[0835] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[0835] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[0835] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:08:10 2022-12-11T08:08:10.693Z root WARN Frontend a.configure took longer than the expected maximum 100 milliseconds: 582.0 ms [Finished 5.682 s after frontend start]
+2022-12-11 08:08:10 2022-12-11T08:08:10.716Z root WARN Frontend commands.onStart took longer than the expected maximum 100 milliseconds: 190.5 ms [Finished 5.876 s after frontend start]
+2022-12-11 08:08:10 2022-12-11T08:08:10.898Z root WARN Frontend keybindings.onStart took longer than the expected maximum 100 milliseconds: 136.5 ms [Finished 6.019 s after frontend start]
+2022-12-11 08:08:11 2022-12-11T08:08:11.477Z root WARN Frontend l.onStart took longer than the expected maximum 100 milliseconds: 467.2 ms [Finished 6.650 s after frontend start]
+2022-12-11 08:08:11 2022-12-11T08:08:11.573Z root INFO Start frontend contributions: 2125.4 ms [Finished 6.673 s after frontend start]
+2022-12-11 08:08:11 2022-12-11T08:08:11.573Z root INFO Changed application state from 'init' to 'started_contributions'.
+2022-12-11 08:08:11 2022-12-11T08:08:11.598Z root INFO Changed application state from 'started_contributions' to 'attached_shell'.
+2022-12-11 08:08:11 2022-12-11T08:08:11.599Z root INFO >>> Restoring the layout state...
+2022-12-11 08:08:11 2022-12-11T08:08:11.599Z root INFO <<< Nothing to restore.
+2022-12-11 08:08:11 2022-12-11T08:08:11.736Z root INFO Initialize the workbench layout: 101.1 ms [Finished 6.886 s after frontend start]
+2022-12-11 08:08:11 2022-12-11T08:08:11.795Z root INFO Changed application state from 'attached_shell' to 'initialized_layout'.
+2022-12-11 08:08:11 2022-12-11T08:08:11.904Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435] Waiting for backend deployment: 420.9 ms [Finished 7.075 s after frontend start]
+2022-12-11 08:08:12 2022-12-11T08:08:12.299Z root ERROR Request initAuthSession failed with error: The name org.freedesktop.secrets was not provided by any .service files
+2022-12-11 08:08:14 2022-12-11T08:08:14.078Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859) starting instance
+2022-12-11 08:08:14 2022-12-11T08:08:14.694Z root INFO Frontend application start: 4260.8 ms [Finished 1019.813 s after backend start]
+2022-12-11 08:08:14 2022-12-11T08:08:14.698Z root INFO Replace loading indicator with ready workbench UI (animation): 1066.4 ms [Finished 7.986 s after frontend start]
+2022-12-11 08:08:14 2022-12-11T08:08:14.796Z root INFO Changed application state from 'initialized_layout' to 'ready'.
+2022-12-11 08:08:14 2022-12-11T08:08:14.796Z root WARN Linked preference "workbench.colorCustomizations" not found. Source: "editor.bracketPairColorization.enabled"
+2022-12-11 08:08:14 2022-12-11T08:08:14.797Z root INFO Executing startup tasks:
+2022-12-11 08:08:14 2022-12-11T08:08:14.797Z root INFO  - 'arduino-use-inherited-boards-config' , args: [{"selectedBoard":{"name":"NodeMCU 1.0 (ESP-12E Module)","fqbn":"esp8266:esp8266:nodemcuv2","state":1,"selected":false,"port":{"address":"/dev/ttyUSB0","addressLabel":"/dev/ttyUSB0","protocol":"serial","protocolLabel":"Serial Port (USB)","properties":{"pid":"0x7523","serialNumber":"","vid":"0x1a86"}}},"selectedPort":{"address":"/dev/ttyUSB0","addressLabel":"/dev/ttyUSB0","protocol":"serial","protocolLabel":"Serial Port (USB)","properties":{"pid":"0x7523","serialNumber":"","vid":"0x1a86"}}}]
+2022-12-11 08:08:16 2022-12-11T08:08:16.531Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435] Sync of 21 plugins: 4560.0 ms [Finished 11.635 s after frontend start]
+2022-12-11 08:08:16 2022-12-11T08:08:16.546Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][marus25.cortex-debug]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.546Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][arduino.vscode-arduino-tools]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.546Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][vscode.cpp]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.546Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][vscode.json]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.546Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][vscode.json-language-features]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.547Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-bg]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.547Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-cs]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.547Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-de]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.547Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-es]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.548Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-fr]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.549Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-hu]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.549Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-it]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.549Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-ja]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.550Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-ko]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.551Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-nl]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.552Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-pl]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.552Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-pt-br]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.552Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-ru]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.552Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-tr]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.552Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-uk]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.553Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-zh-hans]: Loaded contributions.
+2022-12-11 08:08:16 2022-12-11T08:08:16.553Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435] Load contributions of 21 plugins: 78.2 ms [Finished 11.714 s after frontend start]
+2022-12-11 08:08:18 2022-12-11T08:08:18.542Z root WARN 'cpp' language is remapped from 'source.cpp.embedded.macro' to 'source.cpp' scope
+2022-12-11 08:08:18 2022-12-11T08:08:18.544Z root WARN a registered grammar configuration for 'cpp' language is overridden
+2022-12-11 08:08:19 2022-12-11T08:08:19.179Z root WARN Timeout after 5000 millis. The editor has not shown up in time. URI: file:///tmp/.arduinoIDE-unsaved20221111-1868-9znc8z.p7pp8/Blink/Blink.ino
+2022-12-11 08:08:21 2022-12-11T08:08:21.126Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): PluginManagerExtImpl/init()
+2022-12-11 08:08:21 2022-12-11T08:08:21.137Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): initializing(cortex-debug@1.5.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:08:21 2022-12-11T08:08:21.146Z root INFO [hosted-plugin: 2859] Debugger contribution has been registered: cortex-debug
+2022-12-11 08:08:21 2022-12-11T08:08:21.151Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): initializing(vscode-arduino-tools@0.0.2-beta.5 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:08:21 2022-12-11T08:08:21.153Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): initializing(cpp@1.52.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:08:21 2022-12-11T08:08:21.155Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): initializing(json@1.46.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:08:21 2022-12-11T08:08:21.156Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): initializing(json-language-features@1.46.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:08:21 2022-12-11T08:08:21.158Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): initializing(vscode-language-pack-bg@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:08:21 2022-12-11T08:08:21.160Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): initializing(vscode-language-pack-cs@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:08:21 2022-12-11T08:08:21.162Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): initializing(vscode-language-pack-de@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:08:21 2022-12-11T08:08:21.165Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): initializing(vscode-language-pack-es@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:08:21 2022-12-11T08:08:21.167Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): initializing(vscode-language-pack-fr@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:08:21 2022-12-11T08:08:21.169Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): initializing(vscode-language-pack-hu@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:08:21 2022-12-11T08:08:21.173Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): initializing(vscode-language-pack-it@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+PLUGIN_HOST(2859): initializing(vscode-language-pack-ja@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:08:21 2022-12-11T08:08:21.174Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): initializing(vscode-language-pack-ko@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:08:21 2022-12-11T08:08:21.184Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): initializing(vscode-language-pack-nl@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+PLUGIN_HOST(2859): initializing(vscode-language-pack-pl@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+PLUGIN_HOST(2859): initializing(vscode-language-pack-pt-BR@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+PLUGIN_HOST(2859): initializing(vscode-language-pack-ru@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+PLUGIN_HOST(2859): initializing(vscode-language-pack-tr@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+PLUGIN_HOST(2859): initializing(vscode-language-pack-uk@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+PLUGIN_HOST(2859): initializing(vscode-language-pack-zh-hans@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-11 08:08:21 2022-12-11T08:08:21.206Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain)
+2022-12-11 08:08:21 2022-12-11T08:08:21.376Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][marus25.cortex-debug]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.382Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][arduino.vscode-arduino-tools]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.384Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][vscode.cpp]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.384Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][vscode.json]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.384Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][vscode.json-language-features]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.385Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-bg]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.385Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-cs]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.385Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-de]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.385Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-es]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.385Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-fr]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.386Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-hu]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.386Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-it]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.386Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-ja]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.386Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-ko]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.386Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-nl]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.386Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-pl]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.387Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-pt-br]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.387Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-ru]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.387Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-tr]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.387Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-uk]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.387Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435][ms-ceintl.vscode-language-pack-zh-hans]: Started plugin.
+2022-12-11 08:08:21 2022-12-11T08:08:21.431Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/cortex-debug/extension/dist/extension.js)
+2022-12-11 08:08:21 2022-12-11T08:08:21.585Z root INFO [hosted-plugin: 2859] Debug configuration provider has been registered: cortex-debug, trigger: 1
+2022-12-11 08:08:21 2022-12-11T08:08:21.594Z root INFO [hosted-plugin: 2859] GDB server console created
+2022-12-11 08:08:21 2022-12-11T08:08:21.649Z root INFO [eb0318c7-d848-4288-8fb3-567d33a58435] Start of 21 plugins: 5058.8 ms [Finished 16.822 s after frontend start]
+2022-12-11 08:08:21 2022-12-11T08:08:21.681Z root INFO Starting language server: esp8266:esp8266:nodemcuv2
+2022-12-11 08:08:21 2022-12-11T08:08:21.724Z root WARN monospace assumptions have been violated, therefore disabling monospace optimizations!
+2022-12-11 08:08:21 2022-12-11T08:08:21.764Z root INFO [hosted-plugin: 2859] PLUGIN_HOST(2859): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle)
+2022-12-11 08:08:21 2022-12-11T08:08:21.997Z daemon INFO [36mINFO[0m[1019] Searching tools required for board esp8266:esp8266:nodemcuv2 
+
+2022-12-11 08:08:21 2022-12-11T08:08:21.998Z daemon INFO [36mINFO[0m[1019] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1019] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1019] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1019] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:08:22 2022-12-11T08:08:22.001Z daemon INFO [36mINFO[0m[1019] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[1019] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries [36mlocation[0m=platform
+[36mINFO[0m[1019] Adding libraries dir                          [36mdir[0m=/home/amrit/Arduino/libraries [36mlocation[0m=user
+
+2022-12-11 08:08:22 2022-12-11T08:08:22.074Z daemon INFO [36mINFO[0m[1019] Searching tools required for board esp8266:esp8266:nodemcuv2 
+[36mINFO[0m[1019] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1019] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1019] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1019] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1019] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[1019] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries [36mlocation[0m=platform
+[36mINFO[0m[1019] Adding libraries dir                          [36mdir[0m=/home/amrit/Arduino/libraries [36mlocation[0m=user
+
+2022-12-11 08:08:23 2022-12-11T08:08:23.547Z daemon INFO [36mINFO[0m[1020] Searching tools required for board esp8266:esp8266:nodemcuv2 
+[36mINFO[0m[1020] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1020] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:08:23 2022-12-11T08:08:23.548Z daemon INFO [36mINFO[0m[1020] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1020] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:09:33 2022-12-11T08:09:33.028Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-0F524252988B6C3A1A0DC6B46DD729CF"}
+2022-12-11 08:09:33 2022-12-11T08:09:33.134Z daemon INFO [36mINFO[0m[1090] Searching tools required for board esp8266:esp8266:nodemcuv2 
+[36mINFO[0m[1090] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1090] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1090] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1090] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1090] Tool required for upload                      [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1090] Tool required for upload                      [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1090] Tool required for upload                      [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1090] Tool required for upload                      [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1090] Tool required for upload                      [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[1090] Tool required for upload                      [36mtool[0m="builtin:serial-monitor@0.11.0"
+[36mINFO[0m[1090] Tool required for upload                      [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[1090] Tool required for upload                      [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[1090] Tool required for upload                      [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[1090] Tool required for upload                      [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[1090] Tool required for upload                      [36mtool[0m="builtin:mdns-discovery@1.0.6"
+
+2022-12-11 08:09:34 2022-12-11T08:09:34.123Z daemon INFO [36mINFO[0m[1091] Searching tools required for board esp8266:esp8266:nodemcuv2 
+[36mINFO[0m[1091] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1091] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1091] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1091] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:11:39 2022-12-11T08:11:39.488Z daemon INFO [36mINFO[0m[1216] Searching tools required for board esp8266:esp8266:nodemcuv2 
+
+2022-12-11 08:11:39 2022-12-11T08:11:39.490Z daemon INFO [36mINFO[0m[1216] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1216] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1216] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1216] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:11:41 2022-12-11T08:11:41.741Z daemon INFO [36mINFO[0m[1219] Searching tools required for board esp8266:esp8266:nodemcuv2 
+[36mINFO[0m[1219] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:11:41 2022-12-11T08:11:41.742Z daemon INFO [36mINFO[0m[1219] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1219] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1219] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:11:45 2022-12-11T08:11:45.289Z daemon INFO [36mINFO[0m[1222] Searching tools required for board esp8266:esp8266:nodemcuv2 
+
+2022-12-11 08:11:45 2022-12-11T08:11:45.290Z daemon INFO [36mINFO[0m[1222] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1222] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1222] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1222] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:11:49 2022-12-11T08:11:49.260Z daemon INFO [36mINFO[0m[1226] Searching tools required for board esp8266:esp8266:nodemcuv2 
+[36mINFO[0m[1226] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1226] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1226] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1226] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1226] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[1226] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries [36mlocation[0m=platform
+[36mINFO[0m[1226] Adding libraries dir                          [36mdir[0m=/home/amrit/Arduino/libraries [36mlocation[0m=user
+
+2022-12-11 08:11:53 2022-12-11T08:11:53.903Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-0F524252988B6C3A1A0DC6B46DD729CF"}
+2022-12-11 08:11:53 2022-12-11T08:11:53.923Z daemon INFO [36mINFO[0m[1231] Searching tools required for board esp8266:esp8266:nodemcuv2 
+[36mINFO[0m[1231] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1231] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1231] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1231] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1231] Tool required for upload                      [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1231] Tool required for upload                      [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1231] Tool required for upload                      [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1231] Tool required for upload                      [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1231] Tool required for upload                      [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[1231] Tool required for upload                      [36mtool[0m="builtin:mdns-discovery@1.0.6"
+[36mINFO[0m[1231] Tool required for upload                      [36mtool[0m="builtin:serial-monitor@0.11.0"
+[36mINFO[0m[1231] Tool required for upload                      [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[1231] Tool required for upload                      [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[1231] Tool required for upload                      [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[1231] Tool required for upload                      [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+
+2022-12-11 08:11:54 2022-12-11T08:11:54.926Z daemon INFO [36mINFO[0m[1232] Searching tools required for board esp8266:esp8266:nodemcuv2 
+
+2022-12-11 08:11:54 2022-12-11T08:11:54.927Z daemon INFO [36mINFO[0m[1232] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1232] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1232] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1232] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:12:08 2022-12-11T08:12:08.931Z daemon INFO [36mINFO[0m[1246] Searching tools required for board esp8266:esp8266:nodemcuv2 
+[36mINFO[0m[1246] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1246] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1246] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1246] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1246] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[1246] Adding libraries dir                          [36mdir[0m=/home/amrit/.arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries [36mlocation[0m=platform
+[36mINFO[0m[1246] Adding libraries dir                          [36mdir[0m=/home/amrit/Arduino/libraries [36mlocation[0m=user
+
+2022-12-11 08:12:13 2022-12-11T08:12:13.202Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-0F524252988B6C3A1A0DC6B46DD729CF"}
+2022-12-11 08:12:13 2022-12-11T08:12:13.226Z daemon INFO [36mINFO[0m[1250] Searching tools required for board esp8266:esp8266:nodemcuv2 
+[36mINFO[0m[1250] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1250] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1250] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1250] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1250] Tool required for upload                      [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1250] Tool required for upload                      [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1250] Tool required for upload                      [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1250] Tool required for upload                      [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1250] Tool required for upload                      [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[1250] Tool required for upload                      [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[1250] Tool required for upload                      [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[1250] Tool required for upload                      [36mtool[0m="builtin:serial-monitor@0.11.0"
+[36mINFO[0m[1250] Tool required for upload                      [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[1250] Tool required for upload                      [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[1250] Tool required for upload                      [36mtool[0m="builtin:mdns-discovery@1.0.6"
+
+2022-12-11 08:12:14 2022-12-11T08:12:14.228Z daemon INFO [36mINFO[0m[1251] Searching tools required for board esp8266:esp8266:nodemcuv2 
+
+2022-12-11 08:12:14 2022-12-11T08:12:14.229Z daemon INFO [36mINFO[0m[1251] Required tool                                 [36mtool[0m="esp8266:mklittlefs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1251] Required tool                                 [36mtool[0m="esp8266:mkspiffs@3.0.4-gcc10.3-1757bed"
+[36mINFO[0m[1251] Required tool                                 [36mtool[0m="esp8266:python3@3.7.2-post1"
+[36mINFO[0m[1251] Required tool                                 [36mtool[0m="esp8266:xtensa-lx106-elf-gcc@3.0.4-gcc10.3-1757bed"
+
+2022-12-11 08:13:13 2022-12-11T08:13:13.006Z daemon INFO [36mINFO[0m[1310] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyUSB0 
+
+2022-12-11 08:13:13 2022-12-11T08:13:13.007Z daemon INFO [36mINFO[0m[1310] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyUSB0 
+
+2022-12-11 08:13:13 2022-12-11T08:13:13.010Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[]}},"error":""}
+2022-12-11 08:13:13 2022-12-11T08:13:13.322Z root INFO Attached boards and available ports changed:
+2022-12-11 08:13:13 2022-12-11T08:13:13.323Z root INFO  - Port is no longer available on /dev/ttyUSB0 Serial Port (USB)
+2022-12-11 08:13:13 2022-12-11T08:13:13.323Z root INFO ------------------------------------------
