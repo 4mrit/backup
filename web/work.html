@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+        .flexview{
+        display: flex;
+                background-color: blue;
+                height: 1rem;
+        }
+        .flex1{
+            width: 35%;
+            background-color: darkcyan;
+        }
+        
+        .flex2{
+            width: 10%;
+            background-color: yellow;
+        }
+        .flex3{
+            width: 75%;
+            background-color: darkcyan;
+
+        }
+    </style>
+</head>
+<body>
+    <table border="1px">
+        <thead>
+            <tr>
+                <th rowspan="2">S.N.</th>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Contact</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Amrit</td>
+                <td rowspan="2"> buddhanagar</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Samyam</td>
+                
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>---</td>
+                <td>---</td>
+                <td>
+                    <div class="flexview">
+                        <div class="flex1"></div>
+                        <div class="flex2"></div>
+                        <div class="flex3"></div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td >4</td>
+                <td>Prasanna</td>
+                <td colspan="2"> bhw/986931111</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th>S.N.</th>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Contact</th>
+            </tr>
+        </tfoot>
+
+
+</table>
+</body>
+</html>

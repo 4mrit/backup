@@ -1,0 +1,30 @@
+.flexview,.row2{
+    display: flex;
+    background-color: blue;
+    height: 6rem;
+}
+.row{
+    display: flex;
+    background-color: yellow;
+    height: 2rem;
+}
+
+.flex1{
+    width: 35%;
+    background-color: darkcyan;
+}
+
+.flex3{
+    width: 75%;
+    background-color: darkcyan;
+
+}
+.flex2{
+    width: 10%;
+    background-color: yellow;
+}
+
+.flex4{
+    width: 30%;
+    background-color: green;
+}
