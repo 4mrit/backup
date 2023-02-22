@@ -1,0 +1,4 @@
+RuntimeException: Error opening serial port /dev/ttyUSB1: Port not found
+RuntimeException: Error opening serial port /dev/ttyUSB1: Port not found
+RuntimeException: Error opening serial port /dev/ttyACM1: Port not found
+RuntimeException: Error opening serial port /dev/ttyACM1: Port not found

@@ -1,0 +1,3 @@
+2
+/home/amrit/study_material/node_mcu/read_from_mpu_6050/basic_read/MPUTeapot/MPUTeapot.pde
+/home/amrit/study_material/node_mcu/read_from_mpu_6050/basic_read/.pio/libdeps/nodemcuv2/MPU6050/examples/MPU6050_DMP6/Processing/MPUTeapot/MPUTeapot.pde

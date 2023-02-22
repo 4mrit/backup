@@ -1,0 +1,4 @@
+RuntimeException: Error opening serial port /dev/ttyACM0: Port not found
+RuntimeException: Error opening serial port /dev/ttyACM0: Port not found
+ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
