@@ -1,0 +1,2020 @@
+[2023-02-20 19:47:06.424] [info] isUpdating: false
+[2023-02-20 19:47:06.431] [info] Checking for update
+[2023-02-20 19:47:06.431] [info] Checking for update
+[2023-02-20 19:47:06.727] [info] Generated new staging user ID: 3ac7cb19-bbc0-5e21-908e-a78d0ac2422d
+[2023-02-20 19:47:07.279] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 19:47:07.280] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 19:47:07.281] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 19:57:06.478] [info] isUpdating: false
+[2023-02-20 19:57:06.479] [info] Checking for update
+[2023-02-20 19:57:06.480] [info] Checking for update
+[2023-02-20 19:57:07.039] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 19:57:07.040] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 19:57:07.041] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 20:07:06.567] [info] isUpdating: false
+[2023-02-20 20:07:06.568] [info] Checking for update
+[2023-02-20 20:07:06.569] [info] Checking for update
+[2023-02-20 20:07:07.106] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 20:07:07.106] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 20:07:07.107] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 20:11:59.771] [info] before-quit
+[2023-02-20 20:11:59.774] [info] [Api].exit, relaunch: false
+[2023-02-20 20:11:59.779] [info] [Api].shutdown, relaunch: false
+[2023-02-20 20:28:42.539] [warn] 2023-02-20T20:28:42.536+0545	[31mERROR[0m	psrpc	go-libp2p-pubsub-rpc@v0.0.10-0.20221213171524-df44a6b1795d/rpc.go:335	creating response topic: joining topic: topic already exists
+
+[2023-02-20 20:36:33.612] [info] isUpdating: false
+[2023-02-20 20:36:33.614] [info] Checking for update
+[2023-02-20 20:36:33.615] [info] Checking for update
+[2023-02-20 20:36:34.185] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 20:36:34.186] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 20:36:34.187] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 20:46:33.617] [info] isUpdating: false
+[2023-02-20 20:46:33.618] [info] Checking for update
+[2023-02-20 20:46:33.619] [info] Checking for update
+[2023-02-20 20:46:34.142] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 20:46:34.143] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 20:46:34.143] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 20:56:33.719] [info] isUpdating: false
+[2023-02-20 20:56:33.720] [info] Checking for update
+[2023-02-20 20:56:33.720] [info] Checking for update
+[2023-02-20 20:56:34.243] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 20:56:34.243] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 20:56:34.244] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 21:06:33.821] [info] isUpdating: false
+[2023-02-20 21:06:33.822] [info] Checking for update
+[2023-02-20 21:06:33.822] [info] Checking for update
+[2023-02-20 21:06:34.359] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 21:06:34.360] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 21:06:34.361] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 21:16:33.835] [info] isUpdating: false
+[2023-02-20 21:16:33.836] [info] Checking for update
+[2023-02-20 21:16:33.837] [info] Checking for update
+[2023-02-20 21:16:34.358] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 21:16:34.358] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 21:16:34.359] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 21:26:33.854] [info] isUpdating: false
+[2023-02-20 21:26:33.855] [info] Checking for update
+[2023-02-20 21:26:33.855] [info] Checking for update
+[2023-02-20 21:26:34.395] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 21:26:34.395] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 21:26:34.396] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 21:36:33.935] [info] isUpdating: false
+[2023-02-20 21:36:33.936] [info] Checking for update
+[2023-02-20 21:36:33.936] [info] Checking for update
+[2023-02-20 21:36:34.476] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 21:36:34.476] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 21:36:34.476] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 21:46:33.982] [info] isUpdating: false
+[2023-02-20 21:46:33.983] [info] Checking for update
+[2023-02-20 21:46:33.984] [info] Checking for update
+[2023-02-20 21:46:34.515] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 21:46:34.515] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 21:46:34.516] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 21:56:34.021] [info] isUpdating: false
+[2023-02-20 21:56:34.021] [info] Checking for update
+[2023-02-20 21:56:34.022] [info] Checking for update
+[2023-02-20 21:56:34.531] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 21:56:34.531] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 21:56:34.532] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 22:06:34.073] [info] isUpdating: false
+[2023-02-20 22:06:34.074] [info] Checking for update
+[2023-02-20 22:06:34.075] [info] Checking for update
+[2023-02-20 22:06:34.570] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 22:06:34.571] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 22:06:34.571] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 22:16:34.075] [info] isUpdating: false
+[2023-02-20 22:16:34.076] [info] Checking for update
+[2023-02-20 22:16:34.076] [info] Checking for update
+[2023-02-20 22:16:34.600] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 22:16:34.600] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 22:16:34.601] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 22:26:34.096] [info] isUpdating: false
+[2023-02-20 22:26:34.097] [info] Checking for update
+[2023-02-20 22:26:34.097] [info] Checking for update
+[2023-02-20 22:26:34.717] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 22:26:34.718] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 22:26:34.718] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 22:36:34.102] [info] isUpdating: false
+[2023-02-20 22:36:34.103] [info] Checking for update
+[2023-02-20 22:36:34.103] [info] Checking for update
+[2023-02-20 22:36:34.628] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 22:36:34.628] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 22:36:34.629] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 22:46:34.156] [info] isUpdating: false
+[2023-02-20 22:46:34.157] [info] Checking for update
+[2023-02-20 22:46:34.157] [info] Checking for update
+[2023-02-20 22:46:34.711] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 22:46:34.712] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 22:46:34.712] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 22:56:34.259] [info] isUpdating: false
+[2023-02-20 22:56:34.259] [info] Checking for update
+[2023-02-20 22:56:34.260] [info] Checking for update
+[2023-02-20 22:56:34.843] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 22:56:34.843] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 22:56:34.844] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 23:06:34.268] [info] isUpdating: false
+[2023-02-20 23:06:34.269] [info] Checking for update
+[2023-02-20 23:06:34.269] [info] Checking for update
+[2023-02-20 23:06:34.819] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 23:06:34.820] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 23:06:34.820] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 23:16:34.371] [info] isUpdating: false
+[2023-02-20 23:16:34.372] [info] Checking for update
+[2023-02-20 23:16:34.372] [info] Checking for update
+[2023-02-20 23:16:34.882] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 23:16:34.882] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 23:16:34.883] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 23:26:34.425] [info] isUpdating: false
+[2023-02-20 23:26:34.425] [info] Checking for update
+[2023-02-20 23:26:34.427] [info] Checking for update
+[2023-02-20 23:26:34.952] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 23:26:34.952] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 23:26:34.953] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 23:36:34.506] [info] isUpdating: false
+[2023-02-20 23:36:34.507] [info] Checking for update
+[2023-02-20 23:36:34.507] [info] Checking for update
+[2023-02-20 23:36:35.033] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 23:36:35.034] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 23:36:35.034] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 23:46:34.608] [info] isUpdating: false
+[2023-02-20 23:46:34.609] [info] Checking for update
+[2023-02-20 23:46:34.610] [info] Checking for update
+[2023-02-20 23:46:35.142] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 23:46:35.142] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 23:46:35.143] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-20 23:56:34.646] [info] isUpdating: false
+[2023-02-20 23:56:34.647] [info] Checking for update
+[2023-02-20 23:56:34.648] [info] Checking for update
+[2023-02-20 23:56:35.169] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-20 23:56:35.170] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-20 23:56:35.170] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 00:06:34.662] [info] isUpdating: false
+[2023-02-21 00:06:34.663] [info] Checking for update
+[2023-02-21 00:06:34.664] [info] Checking for update
+[2023-02-21 00:06:35.195] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 00:06:35.195] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 00:06:35.196] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 00:16:34.696] [info] isUpdating: false
+[2023-02-21 00:16:34.696] [info] Checking for update
+[2023-02-21 00:16:34.697] [info] Checking for update
+[2023-02-21 00:16:35.221] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 00:16:35.221] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 00:16:35.222] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 00:26:34.700] [info] isUpdating: false
+[2023-02-21 00:26:34.701] [info] Checking for update
+[2023-02-21 00:26:34.701] [info] Checking for update
+[2023-02-21 00:26:35.216] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 00:26:35.217] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 00:26:35.217] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 00:36:34.713] [info] isUpdating: false
+[2023-02-21 00:36:34.714] [info] Checking for update
+[2023-02-21 00:36:34.714] [info] Checking for update
+[2023-02-21 00:36:35.241] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 00:36:35.241] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 00:36:35.242] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 00:46:34.725] [info] isUpdating: false
+[2023-02-21 00:46:34.726] [info] Checking for update
+[2023-02-21 00:46:34.727] [info] Checking for update
+[2023-02-21 00:46:35.256] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 00:46:35.256] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 00:46:35.256] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 00:56:34.781] [info] isUpdating: false
+[2023-02-21 00:56:34.782] [info] Checking for update
+[2023-02-21 00:56:34.783] [info] Checking for update
+[2023-02-21 00:56:35.305] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 00:56:35.306] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 00:56:35.306] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 01:06:34.878] [info] isUpdating: false
+[2023-02-21 01:06:34.879] [info] Checking for update
+[2023-02-21 01:06:34.880] [info] Checking for update
+[2023-02-21 01:06:35.403] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 01:06:35.403] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 01:06:35.403] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 01:16:34.981] [info] isUpdating: false
+[2023-02-21 01:16:34.982] [info] Checking for update
+[2023-02-21 01:16:34.983] [info] Checking for update
+[2023-02-21 01:16:35.537] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 01:16:35.538] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 01:16:35.538] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 01:26:34.995] [info] isUpdating: false
+[2023-02-21 01:26:34.995] [info] Checking for update
+[2023-02-21 01:26:34.996] [info] Checking for update
+[2023-02-21 01:26:35.521] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 01:26:35.521] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 01:26:35.522] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 01:36:35.073] [info] isUpdating: false
+[2023-02-21 01:36:35.074] [info] Checking for update
+[2023-02-21 01:36:35.075] [info] Checking for update
+[2023-02-21 01:36:35.592] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 01:36:35.593] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 01:36:35.594] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 01:46:35.173] [info] isUpdating: false
+[2023-02-21 01:46:35.174] [info] Checking for update
+[2023-02-21 01:46:35.174] [info] Checking for update
+[2023-02-21 01:46:35.751] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 01:46:35.751] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 01:46:35.752] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 01:56:35.188] [info] isUpdating: false
+[2023-02-21 01:56:35.189] [info] Checking for update
+[2023-02-21 01:56:35.189] [info] Checking for update
+[2023-02-21 01:56:35.825] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 01:56:35.826] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 01:56:35.826] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 02:06:35.195] [info] isUpdating: false
+[2023-02-21 02:06:35.196] [info] Checking for update
+[2023-02-21 02:06:35.196] [info] Checking for update
+[2023-02-21 02:06:35.732] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 02:06:35.733] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 02:06:35.733] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 02:16:35.297] [info] isUpdating: false
+[2023-02-21 02:16:35.298] [info] Checking for update
+[2023-02-21 02:16:35.298] [info] Checking for update
+[2023-02-21 02:16:35.840] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 02:16:35.841] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 02:16:35.841] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 02:26:35.400] [info] isUpdating: false
+[2023-02-21 02:26:35.401] [info] Checking for update
+[2023-02-21 02:26:35.401] [info] Checking for update
+[2023-02-21 02:26:35.930] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 02:26:35.930] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 02:26:35.930] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 02:36:35.482] [info] isUpdating: false
+[2023-02-21 02:36:35.482] [info] Checking for update
+[2023-02-21 02:36:35.483] [info] Checking for update
+[2023-02-21 02:36:35.991] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 02:36:35.992] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 02:36:35.993] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 02:46:35.583] [info] isUpdating: false
+[2023-02-21 02:46:35.584] [info] Checking for update
+[2023-02-21 02:46:35.584] [info] Checking for update
+[2023-02-21 02:46:36.132] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 02:46:36.132] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 02:46:36.133] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 02:56:35.668] [info] isUpdating: false
+[2023-02-21 02:56:35.668] [info] Checking for update
+[2023-02-21 02:56:35.669] [info] Checking for update
+[2023-02-21 02:56:36.196] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 02:56:36.197] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 02:56:36.197] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 03:06:35.768] [info] isUpdating: false
+[2023-02-21 03:06:35.768] [info] Checking for update
+[2023-02-21 03:06:35.769] [info] Checking for update
+[2023-02-21 03:06:36.292] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 03:06:36.293] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 03:06:36.293] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 03:16:35.781] [info] isUpdating: false
+[2023-02-21 03:16:35.782] [info] Checking for update
+[2023-02-21 03:16:35.782] [info] Checking for update
+[2023-02-21 03:16:36.304] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 03:16:36.304] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 03:16:36.305] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 03:26:35.796] [info] isUpdating: false
+[2023-02-21 03:26:35.796] [info] Checking for update
+[2023-02-21 03:26:35.797] [info] Checking for update
+[2023-02-21 03:26:36.325] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 03:26:36.325] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 03:26:36.325] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 03:36:35.838] [info] isUpdating: false
+[2023-02-21 03:36:35.839] [info] Checking for update
+[2023-02-21 03:36:35.839] [info] Checking for update
+[2023-02-21 03:36:36.446] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 03:36:36.447] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 03:36:36.447] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 03:46:35.906] [info] isUpdating: false
+[2023-02-21 03:46:35.907] [info] Checking for update
+[2023-02-21 03:46:35.907] [info] Checking for update
+[2023-02-21 03:46:36.415] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 03:46:36.415] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 03:46:36.416] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 03:56:36.008] [info] isUpdating: false
+[2023-02-21 03:56:36.009] [info] Checking for update
+[2023-02-21 03:56:36.009] [info] Checking for update
+[2023-02-21 03:56:37.480] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 03:56:37.480] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 03:56:37.481] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 04:06:36.025] [info] isUpdating: false
+[2023-02-21 04:06:36.026] [info] Checking for update
+[2023-02-21 04:06:36.026] [info] Checking for update
+[2023-02-21 04:06:36.572] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 04:06:36.572] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 04:06:36.572] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 04:16:36.106] [info] isUpdating: false
+[2023-02-21 04:16:36.107] [info] Checking for update
+[2023-02-21 04:16:36.107] [info] Checking for update
+[2023-02-21 04:16:36.639] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 04:16:36.640] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 04:16:36.640] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 04:26:36.174] [info] isUpdating: false
+[2023-02-21 04:26:36.175] [info] Checking for update
+[2023-02-21 04:26:36.175] [info] Checking for update
+[2023-02-21 04:26:36.751] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 04:26:36.752] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 04:26:36.752] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 04:36:36.255] [info] isUpdating: false
+[2023-02-21 04:36:36.256] [info] Checking for update
+[2023-02-21 04:36:36.256] [info] Checking for update
+[2023-02-21 04:36:36.780] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 04:36:36.781] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 04:36:36.781] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 04:46:36.325] [info] isUpdating: false
+[2023-02-21 04:46:36.326] [info] Checking for update
+[2023-02-21 04:46:36.326] [info] Checking for update
+[2023-02-21 04:46:36.824] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 04:46:36.824] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 04:46:36.824] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 04:56:36.335] [info] isUpdating: false
+[2023-02-21 04:56:36.336] [info] Checking for update
+[2023-02-21 04:56:36.336] [info] Checking for update
+[2023-02-21 04:56:36.852] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 04:56:36.852] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 04:56:36.852] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 05:06:36.346] [info] isUpdating: false
+[2023-02-21 05:06:36.346] [info] Checking for update
+[2023-02-21 05:06:36.347] [info] Checking for update
+[2023-02-21 05:06:36.865] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 05:06:36.866] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 05:06:36.866] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 05:16:36.375] [info] isUpdating: false
+[2023-02-21 05:16:36.376] [info] Checking for update
+[2023-02-21 05:16:36.377] [info] Checking for update
+[2023-02-21 05:16:36.893] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 05:16:36.893] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 05:16:36.894] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 05:26:36.459] [info] isUpdating: false
+[2023-02-21 05:26:36.460] [info] Checking for update
+[2023-02-21 05:26:36.460] [info] Checking for update
+[2023-02-21 05:26:37.063] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 05:26:37.063] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 05:26:37.064] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 05:36:36.526] [info] isUpdating: false
+[2023-02-21 05:36:36.527] [info] Checking for update
+[2023-02-21 05:36:36.527] [info] Checking for update
+[2023-02-21 05:36:37.045] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 05:36:37.045] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 05:36:37.045] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 05:46:36.606] [info] isUpdating: false
+[2023-02-21 05:46:36.607] [info] Checking for update
+[2023-02-21 05:46:36.607] [info] Checking for update
+[2023-02-21 05:46:37.108] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 05:46:37.108] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 05:46:37.108] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 05:56:36.695] [info] isUpdating: false
+[2023-02-21 05:56:36.696] [info] Checking for update
+[2023-02-21 05:56:36.696] [info] Checking for update
+[2023-02-21 05:56:37.236] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 05:56:37.236] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 05:56:37.237] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 06:06:36.773] [info] isUpdating: false
+[2023-02-21 06:06:36.774] [info] Checking for update
+[2023-02-21 06:06:36.774] [info] Checking for update
+[2023-02-21 06:06:37.272] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 06:06:37.273] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 06:06:37.273] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 06:16:36.862] [info] isUpdating: false
+[2023-02-21 06:16:36.863] [info] Checking for update
+[2023-02-21 06:16:36.864] [info] Checking for update
+[2023-02-21 06:16:37.436] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 06:16:37.437] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 06:16:37.437] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 06:26:36.912] [info] isUpdating: false
+[2023-02-21 06:26:36.912] [info] Checking for update
+[2023-02-21 06:26:36.912] [info] Checking for update
+[2023-02-21 06:26:37.579] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 06:26:37.579] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 06:26:37.579] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 06:36:36.923] [info] isUpdating: false
+[2023-02-21 06:36:36.923] [info] Checking for update
+[2023-02-21 06:36:36.924] [info] Checking for update
+[2023-02-21 06:36:37.432] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 06:36:37.432] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 06:36:37.433] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 06:46:36.925] [info] isUpdating: false
+[2023-02-21 06:46:36.926] [info] Checking for update
+[2023-02-21 06:46:36.926] [info] Checking for update
+[2023-02-21 06:46:37.445] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 06:46:37.445] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 06:46:37.446] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 06:56:36.962] [info] isUpdating: false
+[2023-02-21 06:56:36.963] [info] Checking for update
+[2023-02-21 06:56:36.963] [info] Checking for update
+[2023-02-21 06:56:37.474] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 06:56:37.474] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 06:56:37.475] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 07:06:37.054] [info] isUpdating: false
+[2023-02-21 07:06:37.054] [info] Checking for update
+[2023-02-21 07:06:37.055] [info] Checking for update
+[2023-02-21 07:06:37.574] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 07:06:37.575] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 07:06:37.575] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 07:16:37.118] [info] isUpdating: false
+[2023-02-21 07:16:37.119] [info] Checking for update
+[2023-02-21 07:16:37.120] [info] Checking for update
+[2023-02-21 07:16:37.623] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 07:16:37.623] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 07:16:37.624] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 07:26:37.221] [info] isUpdating: false
+[2023-02-21 07:26:37.222] [info] Checking for update
+[2023-02-21 07:26:37.222] [info] Checking for update
+[2023-02-21 07:26:37.799] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 07:26:37.799] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 07:26:37.800] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 07:36:37.285] [info] isUpdating: false
+[2023-02-21 07:36:37.286] [info] Checking for update
+[2023-02-21 07:36:37.286] [info] Checking for update
+[2023-02-21 07:36:38.152] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 07:36:38.152] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 07:36:38.154] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 07:46:37.341] [info] isUpdating: false
+[2023-02-21 07:46:37.341] [info] Checking for update
+[2023-02-21 07:46:37.342] [info] Checking for update
+[2023-02-21 07:46:37.856] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 07:46:37.856] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 07:46:37.857] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 07:56:37.438] [info] isUpdating: false
+[2023-02-21 07:56:37.439] [info] Checking for update
+[2023-02-21 07:56:37.439] [info] Checking for update
+[2023-02-21 07:56:43.952] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 07:56:43.952] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 07:56:43.952] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 08:06:37.540] [info] isUpdating: false
+[2023-02-21 08:06:37.540] [info] Checking for update
+[2023-02-21 08:06:37.541] [info] Checking for update
+[2023-02-21 08:06:38.071] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 08:06:38.071] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 08:06:38.072] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 08:16:37.566] [info] isUpdating: false
+[2023-02-21 08:16:37.567] [info] Checking for update
+[2023-02-21 08:16:37.568] [info] Checking for update
+[2023-02-21 08:16:38.109] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 08:16:38.110] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 08:16:38.110] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 08:26:37.668] [info] isUpdating: false
+[2023-02-21 08:26:37.669] [info] Checking for update
+[2023-02-21 08:26:37.669] [info] Checking for update
+[2023-02-21 08:26:38.789] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 08:26:38.790] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 08:26:38.790] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 08:36:37.695] [info] isUpdating: false
+[2023-02-21 08:36:37.696] [info] Checking for update
+[2023-02-21 08:36:37.696] [info] Checking for update
+[2023-02-21 08:36:38.223] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 08:36:38.223] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 08:36:38.224] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 08:46:37.798] [info] isUpdating: false
+[2023-02-21 08:46:37.798] [info] Checking for update
+[2023-02-21 08:46:37.799] [info] Checking for update
+[2023-02-21 08:46:38.415] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 08:46:38.416] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 08:46:38.416] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 08:56:37.818] [info] isUpdating: false
+[2023-02-21 08:56:37.819] [info] Checking for update
+[2023-02-21 08:56:37.819] [info] Checking for update
+[2023-02-21 08:56:39.702] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 08:56:39.703] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 08:56:39.703] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 09:06:37.894] [info] isUpdating: false
+[2023-02-21 09:06:37.895] [info] Checking for update
+[2023-02-21 09:06:37.896] [info] Checking for update
+[2023-02-21 09:06:38.445] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 09:06:38.446] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 09:06:38.446] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 09:16:37.985] [info] isUpdating: false
+[2023-02-21 09:16:37.986] [info] Checking for update
+[2023-02-21 09:16:37.987] [info] Checking for update
+[2023-02-21 09:16:38.518] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 09:16:38.519] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 09:16:38.519] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 09:26:38.088] [info] isUpdating: false
+[2023-02-21 09:26:38.088] [info] Checking for update
+[2023-02-21 09:26:38.090] [info] Checking for update
+[2023-02-21 09:26:38.624] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 09:26:38.624] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 09:26:38.624] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 09:36:38.191] [info] isUpdating: false
+[2023-02-21 09:36:38.191] [info] Checking for update
+[2023-02-21 09:36:38.192] [info] Checking for update
+[2023-02-21 09:36:38.727] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 09:36:38.727] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 09:36:38.727] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 09:46:38.293] [info] isUpdating: false
+[2023-02-21 09:46:38.293] [info] Checking for update
+[2023-02-21 09:46:38.293] [info] Checking for update
+[2023-02-21 09:46:39.335] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 09:46:39.336] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 09:46:39.336] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 09:56:38.385] [info] isUpdating: false
+[2023-02-21 09:56:38.386] [info] Checking for update
+[2023-02-21 09:56:38.387] [info] Checking for update
+[2023-02-21 09:56:38.944] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 09:56:38.944] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 09:56:38.945] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 10:06:38.481] [info] isUpdating: false
+[2023-02-21 10:06:38.482] [info] Checking for update
+[2023-02-21 10:06:38.537] [info] Checking for update
+[2023-02-21 10:06:39.081] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 10:06:39.081] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 10:06:39.082] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 10:16:38.565] [info] isUpdating: false
+[2023-02-21 10:16:38.566] [info] Checking for update
+[2023-02-21 10:16:38.567] [info] Checking for update
+[2023-02-21 10:16:39.131] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 10:16:39.132] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 10:16:39.132] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 10:26:38.668] [info] isUpdating: false
+[2023-02-21 10:26:38.669] [info] Checking for update
+[2023-02-21 10:26:38.669] [info] Checking for update
+[2023-02-21 10:26:39.228] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 10:26:39.228] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 10:26:39.228] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 10:36:38.674] [info] isUpdating: false
+[2023-02-21 10:36:38.675] [info] Checking for update
+[2023-02-21 10:36:38.676] [info] Checking for update
+[2023-02-21 10:36:39.199] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 10:36:39.199] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 10:36:39.199] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 10:46:38.746] [info] isUpdating: false
+[2023-02-21 10:46:38.747] [info] Checking for update
+[2023-02-21 10:46:38.747] [info] Checking for update
+[2023-02-21 10:46:39.328] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 10:46:39.328] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 10:46:39.328] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 10:56:38.848] [info] isUpdating: false
+[2023-02-21 10:56:38.849] [info] Checking for update
+[2023-02-21 10:56:38.849] [info] Checking for update
+[2023-02-21 10:56:39.484] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 10:56:39.485] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 10:56:39.486] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 11:06:38.896] [info] isUpdating: false
+[2023-02-21 11:06:38.896] [info] Checking for update
+[2023-02-21 11:06:38.897] [info] Checking for update
+[2023-02-21 11:06:39.441] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 11:06:39.442] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 11:06:39.442] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 11:16:38.918] [info] isUpdating: false
+[2023-02-21 11:16:38.919] [info] Checking for update
+[2023-02-21 11:16:38.920] [info] Checking for update
+[2023-02-21 11:16:39.464] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 11:16:39.464] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 11:16:39.465] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 11:26:39.018] [info] isUpdating: false
+[2023-02-21 11:26:39.019] [info] Checking for update
+[2023-02-21 11:26:39.020] [info] Checking for update
+[2023-02-21 11:26:39.777] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 11:26:39.777] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 11:26:39.777] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 11:36:39.094] [info] isUpdating: false
+[2023-02-21 11:36:39.094] [info] Checking for update
+[2023-02-21 11:36:39.095] [info] Checking for update
+[2023-02-21 11:36:39.630] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 11:36:39.631] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 11:36:39.631] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 11:46:39.112] [info] isUpdating: false
+[2023-02-21 11:46:39.113] [info] Checking for update
+[2023-02-21 11:46:39.113] [info] Checking for update
+[2023-02-21 11:46:39.662] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 11:46:39.662] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 11:46:39.662] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 11:56:39.214] [info] isUpdating: false
+[2023-02-21 11:56:39.215] [info] Checking for update
+[2023-02-21 11:56:39.216] [info] Checking for update
+[2023-02-21 11:56:39.756] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 11:56:39.756] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 11:56:39.757] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 12:06:39.245] [info] isUpdating: false
+[2023-02-21 12:06:39.246] [info] Checking for update
+[2023-02-21 12:06:39.246] [info] Checking for update
+[2023-02-21 12:06:39.904] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 12:06:39.904] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 12:06:39.904] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 12:16:39.347] [info] isUpdating: false
+[2023-02-21 12:16:39.348] [info] Checking for update
+[2023-02-21 12:16:39.349] [info] Checking for update
+[2023-02-21 12:16:44.890] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 12:16:44.891] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 12:16:44.892] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 12:26:39.412] [info] isUpdating: false
+[2023-02-21 12:26:39.413] [info] Checking for update
+[2023-02-21 12:26:39.414] [info] Checking for update
+[2023-02-21 12:26:39.957] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 12:26:39.957] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 12:26:39.957] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 12:36:39.486] [info] isUpdating: false
+[2023-02-21 12:36:39.486] [info] Checking for update
+[2023-02-21 12:36:39.487] [info] Checking for update
+[2023-02-21 12:36:40.013] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 12:36:40.014] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 12:36:40.014] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 12:46:39.512] [info] isUpdating: false
+[2023-02-21 12:46:39.513] [info] Checking for update
+[2023-02-21 12:46:39.513] [info] Checking for update
+[2023-02-21 12:46:40.054] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 12:46:40.054] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 12:46:40.054] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 12:56:39.606] [info] isUpdating: false
+[2023-02-21 12:56:39.607] [info] Checking for update
+[2023-02-21 12:56:39.607] [info] Checking for update
+[2023-02-21 12:56:40.230] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 12:56:40.230] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 12:56:40.231] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 13:06:39.613] [info] isUpdating: false
+[2023-02-21 13:06:39.613] [info] Checking for update
+[2023-02-21 13:06:39.614] [info] Checking for update
+[2023-02-21 13:06:40.149] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 13:06:40.149] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 13:06:40.150] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 13:16:39.685] [info] isUpdating: false
+[2023-02-21 13:16:39.686] [info] Checking for update
+[2023-02-21 13:16:39.687] [info] Checking for update
+[2023-02-21 13:16:40.290] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 13:16:40.290] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 13:16:40.290] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 13:26:39.788] [info] isUpdating: false
+[2023-02-21 13:26:39.789] [info] Checking for update
+[2023-02-21 13:26:39.790] [info] Checking for update
+[2023-02-21 13:26:40.303] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 13:26:40.303] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 13:26:40.303] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2023-02-21 13:36:39.796] [info] isUpdating: false
+[2023-02-21 13:36:39.796] [info] Checking for update
+[2023-02-21 13:36:39.797] [info] Checking for update
+[2023-02-21 13:36:40.342] [info] Update for version 0.31.0 is not available (latest version: 0.31.0, downgrade is allowed).
+[2023-02-21 13:36:40.343] [info] Update not available: {
+   "version": "0.31.0",
+   "files": [
+      {
+         "url": "Anytype-0.31.0.AppImage",
+         "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+         "size": 222992678,
+         "blockMapSize": 231738
+      }
+   ],
+   "path": "Anytype-0.31.0.AppImage",
+   "sha512": "aTfWsd8In01vnpgG+zfIhAn3J9E++m6L0ZZjms8eDmmTvk4lfb3uA93bmBWqcnpOKZd1RHMRTlbLUKGbmXjjJg==",
+   "releaseDate": "2023-02-14T13:22:38.275Z"
+}
+[2023-02-21 13:36:40.344] [debug] checkForUpdatesAndNotify called, downloadPromise is null

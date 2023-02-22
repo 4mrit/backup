@@ -1,0 +1,24 @@
+{
+	"windowstate": {
+		"isFullScreen": false,
+		"isMaximized": false,
+		"width": 1366,
+		"height": 768,
+		"x": 0,
+		"y": 0,
+		"frame": true,
+		"screenLayout": "0:0:1366:768"
+	},
+	"workspaces": [
+		{
+			"x": 9,
+			"y": 33,
+			"width": 1348,
+			"height": 726,
+			"isMaximized": false,
+			"isFullScreen": false,
+			"file": "/home/amrit/Arduino/temperatureRead",
+			"time": 1670139341747
+		}
+	]
+}
