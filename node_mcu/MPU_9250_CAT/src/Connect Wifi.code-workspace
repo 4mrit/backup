@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../Connect Wifi"
+		},
+		{
+			"name": "MPU_9250_CAT",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

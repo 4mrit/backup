@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../opt/lampp/htdocs/bca"
+		},
+		{
+			"name": "hello_World",
+			"path": "../../../../Documents/PlatformIO/Projects/hello_World"
+		},
+		{
+			"name": "hello_World",
+			"path": "../../hello_World"
+		},
+		{
+			"name": "Connect Wifi",
+			"path": "../../Connect Wifi"
+		},
+		{
+			"name": "TEMP_TO_WEB",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

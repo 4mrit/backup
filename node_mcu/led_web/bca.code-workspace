@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../opt/lampp/htdocs/bca"
+		},
+		{
+			"name": "led_web",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
